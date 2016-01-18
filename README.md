@@ -14,5 +14,4 @@ Each country containts the following information:
 
 
 It combines information from:
-https://gist.github.com/Fluidbyte/2973986
-https://github.com/mledoze/countries
+https://gist.github.com/Fluidbyte/2973986 and https://github.com/mledoze/countries
