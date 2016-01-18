@@ -1,0 +1,2285 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<PCN>
+		<country_region>Oceania</country_region>
+		<money_symbol>NZ$</money_symbol>
+		<country_capital>Adamstown</country_capital>
+		<country_name>Pitcairn Islands</country_name>
+		<money_code>NZD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>New Zealand Dollar</money_name>
+	</PCN>
+	<KIR>
+		<country_region>Oceania</country_region>
+		<money_symbol>AU$</money_symbol>
+		<country_capital>South Tarawa</country_capital>
+		<country_name>Kiribati</country_name>
+		<money_code>AUD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<gil>Gilbertese</gil>
+		</country_languages>
+		<money_name>Australian Dollar</money_name>
+	</KIR>
+	<BGD>
+		<country_region>Asia</country_region>
+		<money_symbol>Tk</money_symbol>
+		<country_capital>Dhaka</country_capital>
+		<country_name>Bangladesh</country_name>
+		<money_code>BDT</money_code>
+		<country_languages>
+			<ben>Bengali</ben>
+		</country_languages>
+		<money_name>Bangladeshi Taka</money_name>
+	</BGD>
+	<BDI>
+		<country_region>Africa</country_region>
+		<money_symbol>FBu</money_symbol>
+		<country_capital>Bujumbura</country_capital>
+		<country_name>Burundi</country_name>
+		<money_code>BIF</money_code>
+		<country_languages>
+			<fra>French</fra>
+			<run>Kirundi</run>
+		</country_languages>
+		<money_name>Burundian Franc</money_name>
+	</BDI>
+	<MNE>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Podgorica</country_capital>
+		<country_name>Montenegro</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<srp>Montenegrin</srp>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</MNE>
+	<TCD>
+		<country_region>Africa</country_region>
+		<money_symbol>FCFA</money_symbol>
+		<country_capital>N'Djamena</country_capital>
+		<country_name>Chad</country_name>
+		<money_code>XAF</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BEAC</money_name>
+	</TCD>
+	<HTI>
+		<country_region>Americas</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Port-au-Prince</country_capital>
+		<country_name>Haiti</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<fra>French</fra>
+			<hat>Haitian Creole</hat>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</HTI>
+	<MLI>
+		<country_region>Africa</country_region>
+		<money_symbol>CFA</money_symbol>
+		<country_capital>Bamako</country_capital>
+		<country_name>Mali</country_name>
+		<money_code>XOF</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BCEAO</money_name>
+	</MLI>
+	<NER>
+		<country_region>Africa</country_region>
+		<money_symbol>CFA</money_symbol>
+		<country_capital>Niamey</country_capital>
+		<country_name>Niger</country_name>
+		<money_code>XOF</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BCEAO</money_name>
+	</NER>
+	<TWN>
+		<country_region>Asia</country_region>
+		<money_symbol>NT$</money_symbol>
+		<country_capital>Taipei</country_capital>
+		<country_name>Taiwan</country_name>
+		<money_code>TWD</money_code>
+		<country_languages>
+			<cmn>Mandarin</cmn>
+		</country_languages>
+		<money_name>New Taiwan Dollar</money_name>
+	</TWN>
+	<EST>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Tallinn</country_capital>
+		<country_name>Estonia</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<est>Estonian</est>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</EST>
+	<GAB>
+		<country_region>Africa</country_region>
+		<money_symbol>FCFA</money_symbol>
+		<country_capital>Libreville</country_capital>
+		<country_name>Gabon</country_name>
+		<money_code>XAF</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BEAC</money_name>
+	</GAB>
+	<GTM>
+		<country_region>Americas</country_region>
+		<money_symbol>GTQ</money_symbol>
+		<country_capital>Guatemala City</country_capital>
+		<country_name>Guatemala</country_name>
+		<money_code>GTQ</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Guatemalan Quetzal</money_name>
+	</GTM>
+	<CYP>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Nicosia</country_capital>
+		<country_name>Cyprus</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<ell>Greek</ell>
+			<tur>Turkish</tur>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</CYP>
+	<TUR>
+		<country_region>Asia</country_region>
+		<money_symbol>TL</money_symbol>
+		<country_capital>Ankara</country_capital>
+		<country_name>Turkey</country_name>
+		<money_code>TRY</money_code>
+		<country_languages>
+			<tur>Turkish</tur>
+		</country_languages>
+		<money_name>Turkish Lira</money_name>
+	</TUR>
+	<CXR>
+		<country_region>Oceania</country_region>
+		<money_symbol>AU$</money_symbol>
+		<country_capital>Flying Fish Cove</country_capital>
+		<country_name>Christmas Island</country_name>
+		<money_code>AUD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>Australian Dollar</money_name>
+	</CXR>
+	<ALA>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Mariehamn</country_capital>
+		<country_name>Åland Islands</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<swe>Swedish</swe>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</ALA>
+	<CAN>
+		<country_region>Americas</country_region>
+		<money_symbol>CA$</money_symbol>
+		<country_capital>Ottawa</country_capital>
+		<country_name>Canada</country_name>
+		<money_code>CAD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Canadian Dollar</money_name>
+	</CAN>
+	<CCK>
+		<country_region>Oceania</country_region>
+		<money_symbol>AU$</money_symbol>
+		<country_capital>West Island</country_capital>
+		<country_name>Cocos (Keeling) Islands</country_name>
+		<money_code>AUD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>Australian Dollar</money_name>
+	</CCK>
+	<IRL>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Dublin</country_capital>
+		<country_name>Ireland</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<gle>Irish</gle>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</IRL>
+	<ALB>
+		<country_region>Europe</country_region>
+		<money_symbol>ALL</money_symbol>
+		<country_capital>Tirana</country_capital>
+		<country_name>Albania</country_name>
+		<money_code>ALL</money_code>
+		<country_languages>
+			<sqi>Albanian</sqi>
+		</country_languages>
+		<money_name>Albanian Lek</money_name>
+	</ALB>
+	<GUM>
+		<country_region>Oceania</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Hagåtña</country_capital>
+		<country_name>Guam</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<cha>Chamorro</cha>
+			<eng>English</eng>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</GUM>
+	<BEL>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Brussels</country_capital>
+		<country_name>Belgium</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<deu>German</deu>
+			<fra>French</fra>
+			<nld>Dutch</nld>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</BEL>
+	<JPN>
+		<country_region>Asia</country_region>
+		<money_symbol>¥</money_symbol>
+		<country_capital>Tokyo</country_capital>
+		<country_name>Japan</country_name>
+		<money_code>JPY</money_code>
+		<country_languages>
+			<jpn>Japanese</jpn>
+		</country_languages>
+		<money_name>Japanese Yen</money_name>
+	</JPN>
+	<ISL>
+		<country_region>Europe</country_region>
+		<money_symbol>Ikr</money_symbol>
+		<country_capital>Reykjavik</country_capital>
+		<country_name>Iceland</country_name>
+		<money_code>ISK</money_code>
+		<country_languages>
+			<isl>Icelandic</isl>
+		</country_languages>
+		<money_name>Icelandic Króna</money_name>
+	</ISL>
+	<MEX>
+		<country_region>Americas</country_region>
+		<money_symbol>MX$</money_symbol>
+		<country_capital>Mexico City</country_capital>
+		<country_name>Mexico</country_name>
+		<money_code>MXN</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Mexican Peso</money_name>
+	</MEX>
+	<QAT>
+		<country_region>Asia</country_region>
+		<money_symbol>QR</money_symbol>
+		<country_capital>Doha</country_capital>
+		<country_name>Qatar</country_name>
+		<money_code>QAR</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Qatari Rial</money_name>
+	</QAT>
+	<IRN>
+		<country_region>Asia</country_region>
+		<money_symbol>IRR</money_symbol>
+		<country_capital>Tehran</country_capital>
+		<country_name>Iran</country_name>
+		<money_code>IRR</money_code>
+		<country_languages>
+			<fas>Persian</fas>
+		</country_languages>
+		<money_name>Iranian Rial</money_name>
+	</IRN>
+	<PHL>
+		<country_region>Asia</country_region>
+		<money_symbol>₱</money_symbol>
+		<country_capital>Manila</country_capital>
+		<country_name>Philippines</country_name>
+		<money_code>PHP</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<fil>Filipino</fil>
+		</country_languages>
+		<money_name>Philippine Peso</money_name>
+	</PHL>
+	<SYR>
+		<country_region>Asia</country_region>
+		<money_symbol>SY£</money_symbol>
+		<country_capital>Damascus</country_capital>
+		<country_name>Syria</country_name>
+		<money_code>SYP</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Syrian Pound</money_name>
+	</SYR>
+	<TUV>
+		<country_region>Oceania</country_region>
+		<money_symbol>AU$</money_symbol>
+		<country_capital>Funafuti</country_capital>
+		<country_name>Tuvalu</country_name>
+		<money_code>AUD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<tvl>Tuvaluan</tvl>
+		</country_languages>
+		<money_name>Australian Dollar</money_name>
+	</TUV>
+	<THA>
+		<country_region>Asia</country_region>
+		<money_symbol>฿</money_symbol>
+		<country_capital>Bangkok</country_capital>
+		<country_name>Thailand</country_name>
+		<money_code>THB</money_code>
+		<country_languages>
+			<tha>Thai</tha>
+		</country_languages>
+		<money_name>Thai Baht</money_name>
+	</THA>
+	<IOT>
+		<country_region>Africa</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Diego Garcia</country_capital>
+		<country_name>British Indian Ocean Territory</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</IOT>
+	<BEN>
+		<country_region>Africa</country_region>
+		<money_symbol>CFA</money_symbol>
+		<country_capital>Porto-Novo</country_capital>
+		<country_name>Benin</country_name>
+		<money_code>XOF</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BCEAO</money_name>
+	</BEN>
+	<PER>
+		<country_region>Americas</country_region>
+		<money_symbol>S/.</money_symbol>
+		<country_capital>Lima</country_capital>
+		<country_name>Peru</country_name>
+		<money_code>PEN</money_code>
+		<country_languages>
+			<aym>Aymara</aym>
+			<que>Quechua</que>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Peruvian Nuevo Sol</money_name>
+	</PER>
+	<JOR>
+		<country_region>Asia</country_region>
+		<money_symbol>JD</money_symbol>
+		<country_capital>Amman</country_capital>
+		<country_name>Jordan</country_name>
+		<money_code>JOD</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Jordanian Dinar</money_name>
+	</JOR>
+	<LVA>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Riga</country_capital>
+		<country_name>Latvia</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<lav>Latvian</lav>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</LVA>
+	<UGA>
+		<country_region>Africa</country_region>
+		<money_symbol>USh</money_symbol>
+		<country_capital>Kampala</country_capital>
+		<country_name>Uganda</country_name>
+		<money_code>UGX</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<swa>Swahili</swa>
+		</country_languages>
+		<money_name>Ugandan Shilling</money_name>
+	</UGA>
+	<BIH>
+		<country_region>Europe</country_region>
+		<money_symbol>KM</money_symbol>
+		<country_capital>Sarajevo</country_capital>
+		<country_name>Bosnia and Herzegovina</country_name>
+		<money_code>BAM</money_code>
+		<country_languages>
+			<bos>Bosnian</bos>
+			<hrv>Croatian</hrv>
+			<srp>Serbian</srp>
+		</country_languages>
+		<money_name>Bosnia-Herzegovina Convertible Mark</money_name>
+	</BIH>
+	<URY>
+		<country_region>Americas</country_region>
+		<money_symbol>$U</money_symbol>
+		<country_capital>Montevideo</country_capital>
+		<country_name>Uruguay</country_name>
+		<money_code>UYU</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Uruguayan Peso</money_name>
+	</URY>
+	<HUN>
+		<country_region>Europe</country_region>
+		<money_symbol>Ft</money_symbol>
+		<country_capital>Budapest</country_capital>
+		<country_name>Hungary</country_name>
+		<money_code>HUF</money_code>
+		<country_languages>
+			<hun>Hungarian</hun>
+		</country_languages>
+		<money_name>Hungarian Forint</money_name>
+	</HUN>
+	<IRQ>
+		<country_region>Asia</country_region>
+		<money_symbol>IQD</money_symbol>
+		<country_capital>Baghdad</country_capital>
+		<country_name>Iraq</country_name>
+		<money_code>IQD</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<arc>Aramaic</arc>
+			<ckb>Sorani</ckb>
+		</country_languages>
+		<money_name>Iraqi Dinar</money_name>
+	</IRQ>
+	<AND>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Andorra la Vella</country_capital>
+		<country_name>Andorra</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<cat>Catalan</cat>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</AND>
+	<SDN>
+		<country_region>Africa</country_region>
+		<money_symbol>SDG</money_symbol>
+		<country_capital>Khartoum</country_capital>
+		<country_name>Sudan</country_name>
+		<money_code>SDG</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>Sudanese Pound</money_name>
+	</SDN>
+	<KOR>
+		<country_region>Asia</country_region>
+		<money_symbol>₩</money_symbol>
+		<country_capital>Seoul</country_capital>
+		<country_name>South Korea</country_name>
+		<money_code>KRW</money_code>
+		<country_languages>
+			<kor>Korean</kor>
+		</country_languages>
+		<money_name>South Korean Won</money_name>
+	</KOR>
+	<HRV>
+		<country_region>Europe</country_region>
+		<money_symbol>kn</money_symbol>
+		<country_capital>Zagreb</country_capital>
+		<country_name>Croatia</country_name>
+		<money_code>HRK</money_code>
+		<country_languages>
+			<hrv>Croatian</hrv>
+		</country_languages>
+		<money_name>Croatian Kuna</money_name>
+	</HRV>
+	<ISR>
+		<country_region>Asia</country_region>
+		<money_symbol>₪</money_symbol>
+		<country_capital>Jerusalem</country_capital>
+		<country_name>Israel</country_name>
+		<money_code>ILS</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<heb>Hebrew</heb>
+		</country_languages>
+		<money_name>Israeli New Sheqel</money_name>
+	</ISR>
+	<VGB>
+		<country_region>Americas</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Road Town</country_capital>
+		<country_name>British Virgin Islands</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</VGB>
+	<NIU>
+		<country_region>Oceania</country_region>
+		<money_symbol>NZ$</money_symbol>
+		<country_capital>Alofi</country_capital>
+		<country_name>Niue</country_name>
+		<money_code>NZD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<niu>Niuean</niu>
+		</country_languages>
+		<money_name>New Zealand Dollar</money_name>
+	</NIU>
+	<SEN>
+		<country_region>Africa</country_region>
+		<money_symbol>CFA</money_symbol>
+		<country_capital>Dakar</country_capital>
+		<country_name>Senegal</country_name>
+		<money_code>XOF</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BCEAO</money_name>
+	</SEN>
+	<SAU>
+		<country_region>Asia</country_region>
+		<money_symbol>SR</money_symbol>
+		<country_capital>Riyadh</country_capital>
+		<country_name>Saudi Arabia</country_name>
+		<money_code>SAR</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Saudi Riyal</money_name>
+	</SAU>
+	<MNP>
+		<country_region>Oceania</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Saipan</country_capital>
+		<country_name>Northern Mariana Islands</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<cal>Carolinian</cal>
+			<cha>Chamorro</cha>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</MNP>
+	<MMR>
+		<country_region>Asia</country_region>
+		<money_symbol>MMK</money_symbol>
+		<country_capital>Naypyidaw</country_capital>
+		<country_name>Myanmar</country_name>
+		<money_code>MMK</money_code>
+		<country_languages>
+			<mya>Burmese</mya>
+		</country_languages>
+		<money_name>Myanma Kyat</money_name>
+	</MMR>
+	<MLT>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Valletta</country_capital>
+		<country_name>Malta</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<mlt>Maltese</mlt>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</MLT>
+	<CHL>
+		<country_region>Americas</country_region>
+		<money_symbol>CL$</money_symbol>
+		<country_capital>Santiago</country_capital>
+		<country_name>Chile</country_name>
+		<money_code>CLP</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Chilean Peso</money_name>
+	</CHL>
+	<GHA>
+		<country_region>Africa</country_region>
+		<money_symbol>GH₵</money_symbol>
+		<country_capital>Accra</country_capital>
+		<country_name>Ghana</country_name>
+		<money_code>GHS</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>Ghanaian Cedi</money_name>
+	</GHA>
+	<OMN>
+		<country_region>Asia</country_region>
+		<money_symbol>OMR</money_symbol>
+		<country_capital>Muscat</country_capital>
+		<country_name>Oman</country_name>
+		<money_code>OMR</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Omani Rial</money_name>
+	</OMN>
+	<NPL>
+		<country_region>Asia</country_region>
+		<money_symbol>NPRs</money_symbol>
+		<country_capital>Kathmandu</country_capital>
+		<country_name>Nepal</country_name>
+		<money_code>NPR</money_code>
+		<country_languages>
+			<nep>Nepali</nep>
+		</country_languages>
+		<money_name>Nepalese Rupee</money_name>
+	</NPL>
+	<BGR>
+		<country_region>Europe</country_region>
+		<money_symbol>BGN</money_symbol>
+		<country_capital>Sofia</country_capital>
+		<country_name>Bulgaria</country_name>
+		<money_code>BGN</money_code>
+		<country_languages>
+			<bul>Bulgarian</bul>
+		</country_languages>
+		<money_name>Bulgarian Lev</money_name>
+	</BGR>
+	<CHN>
+		<country_region>Asia</country_region>
+		<money_symbol>CN¥</money_symbol>
+		<country_capital>Beijing</country_capital>
+		<country_name>China</country_name>
+		<money_code>CNY</money_code>
+		<country_languages>
+			<cmn>Mandarin</cmn>
+		</country_languages>
+		<money_name>Chinese Yuan</money_name>
+	</CHN>
+	<BRA>
+		<country_region>Americas</country_region>
+		<money_symbol>R$</money_symbol>
+		<country_capital>Brasília</country_capital>
+		<country_name>Brazil</country_name>
+		<money_code>BRL</money_code>
+		<country_languages>
+			<por>Portuguese</por>
+		</country_languages>
+		<money_name>Brazilian Real</money_name>
+	</BRA>
+	<DJI>
+		<country_region>Africa</country_region>
+		<money_symbol>Fdj</money_symbol>
+		<country_capital>Djibouti</country_capital>
+		<country_name>Djibouti</country_name>
+		<money_code>DJF</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Djiboutian Franc</money_name>
+	</DJI>
+	<REU>
+		<country_region>Africa</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Saint-Denis</country_capital>
+		<country_name>Réunion</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</REU>
+	<BHR>
+		<country_region>Asia</country_region>
+		<money_symbol>BD</money_symbol>
+		<country_capital>Manama</country_capital>
+		<country_name>Bahrain</country_name>
+		<money_code>BHD</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Bahraini Dinar</money_name>
+	</BHR>
+	<COD>
+		<country_region>Africa</country_region>
+		<money_symbol>CDF</money_symbol>
+		<country_capital>Kinshasa</country_capital>
+		<country_name>DR Congo</country_name>
+		<money_code>CDF</money_code>
+		<country_languages>
+			<lin>Lingala</lin>
+			<fra>French</fra>
+			<kon>Kikongo</kon>
+			<lua>Tshiluba</lua>
+			<swa>Swahili</swa>
+		</country_languages>
+		<money_name>Congolese Franc</money_name>
+	</COD>
+	<LSO>
+		<country_region>Africa</country_region>
+		<money_symbol>R</money_symbol>
+		<country_capital>Maseru</country_capital>
+		<country_name>Lesotho</country_name>
+		<money_code>ZAR</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<sot>Sotho</sot>
+		</country_languages>
+		<money_name>South African Rand</money_name>
+	</LSO>
+	<ZAF>
+		<country_region>Africa</country_region>
+		<money_symbol>R</money_symbol>
+		<country_capital>Pretoria</country_capital>
+		<country_name>South Africa</country_name>
+		<money_code>ZAR</money_code>
+		<country_languages>
+			<ssw>Swazi</ssw>
+			<eng>English</eng>
+			<tsn>Tswana</tsn>
+			<sot>Southern Sotho</sot>
+			<nso>Northern Sotho</nso>
+			<afr>Afrikaans</afr>
+			<xho>Xhosa</xho>
+			<nbl>Southern Ndebele</nbl>
+			<ven>Venda</ven>
+			<tso>Tsonga</tso>
+			<zul>Zulu</zul>
+		</country_languages>
+		<money_name>South African Rand</money_name>
+	</ZAF>
+	<ARE>
+		<country_region>Asia</country_region>
+		<money_symbol>AED</money_symbol>
+		<country_capital>Abu Dhabi</country_capital>
+		<country_name>United Arab Emirates</country_name>
+		<money_code>AED</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>United Arab Emirates Dirham</money_name>
+	</ARE>
+	<SGP>
+		<country_region>Asia</country_region>
+		<money_symbol>S$</money_symbol>
+		<country_capital>Singapore</country_capital>
+		<country_name>Singapore</country_name>
+		<money_code>SGD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<cmn>Mandarin</cmn>
+			<tam>Tamil</tam>
+			<msa>Malay</msa>
+		</country_languages>
+		<money_name>Singapore Dollar</money_name>
+	</SGP>
+	<BLM>
+		<country_region>Americas</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Gustavia</country_capital>
+		<country_name>Saint Barthélemy</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</BLM>
+	<PSE>
+		<country_region>Asia</country_region>
+		<money_symbol>₪</money_symbol>
+		<country_capital>Ramallah</country_capital>
+		<country_name>Palestine</country_name>
+		<money_code>ILS</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Israeli New Sheqel</money_name>
+	</PSE>
+	<POL>
+		<country_region>Europe</country_region>
+		<money_symbol>zł</money_symbol>
+		<country_capital>Warsaw</country_capital>
+		<country_name>Poland</country_name>
+		<money_code>PLN</money_code>
+		<country_languages>
+			<pol>Polish</pol>
+		</country_languages>
+		<money_name>Polish Zloty</money_name>
+	</POL>
+	<NOR>
+		<country_region>Europe</country_region>
+		<money_symbol>Nkr</money_symbol>
+		<country_capital>Oslo</country_capital>
+		<country_name>Norway</country_name>
+		<money_code>NOK</money_code>
+		<country_languages>
+			<nno>Norwegian Nynorsk</nno>
+			<nob>Norwegian Bokmål</nob>
+			<smi>Sami</smi>
+		</country_languages>
+		<money_name>Norwegian Krone</money_name>
+	</NOR>
+	<TGO>
+		<country_region>Africa</country_region>
+		<money_symbol>CFA</money_symbol>
+		<country_capital>Lomé</country_capital>
+		<country_name>Togo</country_name>
+		<money_code>XOF</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BCEAO</money_name>
+	</TGO>
+	<ARG>
+		<country_region>Americas</country_region>
+		<money_symbol>AR$</money_symbol>
+		<country_capital>Buenos Aires</country_capital>
+		<country_name>Argentina</country_name>
+		<money_code>ARS</money_code>
+		<country_languages>
+			<grn>Guaraní</grn>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Argentine Peso</money_name>
+	</ARG>
+	<SJM>
+		<country_region>Europe</country_region>
+		<money_symbol>Nkr</money_symbol>
+		<country_capital>Longyearbyen</country_capital>
+		<country_name>Svalbard and Jan Mayen</country_name>
+		<money_code>NOK</money_code>
+		<country_languages>
+			<nor>Norwegian</nor>
+		</country_languages>
+		<money_name>Norwegian Krone</money_name>
+	</SJM>
+	<ECU>
+		<country_region>Americas</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Quito</country_capital>
+		<country_name>Ecuador</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</ECU>
+	<VAT>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Vatican City</country_capital>
+		<country_name>Vatican City</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<ita>Italian</ita>
+			<lat>Latin</lat>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</VAT>
+	<COG>
+		<country_region>Africa</country_region>
+		<money_symbol>FCFA</money_symbol>
+		<country_capital>Brazzaville</country_capital>
+		<country_name>Republic of the Congo</country_name>
+		<money_code>XAF</money_code>
+		<country_languages>
+			<fra>French</fra>
+			<kon>Kikongo</kon>
+			<lin>Lingala</lin>
+		</country_languages>
+		<money_name>CFA Franc BEAC</money_name>
+	</COG>
+	<DEU>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Berlin</country_capital>
+		<country_name>Germany</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<deu>German</deu>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</DEU>
+	<MAC>
+		<country_region>Asia</country_region>
+		<money_symbol>MOP$</money_symbol>
+		<country_capital></country_capital>
+		<country_name>Macau</country_name>
+		<money_code>MOP</money_code>
+		<country_languages>
+			<por>Portuguese</por>
+			<zho>Chinese</zho>
+		</country_languages>
+		<money_name>Macanese Pataca</money_name>
+	</MAC>
+	<GBR>
+		<country_region>Europe</country_region>
+		<money_symbol>£</money_symbol>
+		<country_capital>London</country_capital>
+		<country_name>United Kingdom</country_name>
+		<money_code>GBP</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>British Pound Sterling</money_name>
+	</GBR>
+	<SGS>
+		<country_region>Americas</country_region>
+		<money_symbol>£</money_symbol>
+		<country_capital>King Edward Point</country_capital>
+		<country_name>South Georgia</country_name>
+		<money_code>GBP</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>British Pound Sterling</money_name>
+	</SGS>
+	<VEN>
+		<country_region>Americas</country_region>
+		<money_symbol>Bs.F.</money_symbol>
+		<country_capital>Caracas</country_capital>
+		<country_name>Venezuela</country_name>
+		<money_code>VEF</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Venezuelan Bolívar</money_name>
+	</VEN>
+	<PRI>
+		<country_region>Americas</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>San Juan</country_capital>
+		<country_name>Puerto Rico</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</PRI>
+	<ATF>
+		<country_region></country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Port-aux-Français</country_capital>
+		<country_name>French Southern and Antarctic Lands</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</ATF>
+	<SRB>
+		<country_region>Europe</country_region>
+		<money_symbol>din.</money_symbol>
+		<country_capital>Belgrade</country_capital>
+		<country_name>Serbia</country_name>
+		<money_code>RSD</money_code>
+		<country_languages>
+			<srp>Serbian</srp>
+		</country_languages>
+		<money_name>Serbian Dinar</money_name>
+	</SRB>
+	<JAM>
+		<country_region>Americas</country_region>
+		<money_symbol>J$</money_symbol>
+		<country_capital>Kingston</country_capital>
+		<country_name>Jamaica</country_name>
+		<money_code>JMD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<jam>Jamaican Patois</jam>
+		</country_languages>
+		<money_name>Jamaican Dollar</money_name>
+	</JAM>
+	<GEO>
+		<country_region>Asia</country_region>
+		<money_symbol>GEL</money_symbol>
+		<country_capital>Tbilisi</country_capital>
+		<country_name>Georgia</country_name>
+		<money_code>GEL</money_code>
+		<country_languages>
+			<kat>Georgian</kat>
+		</country_languages>
+		<money_name>Georgian Lari</money_name>
+	</GEO>
+	<TKL>
+		<country_region>Oceania</country_region>
+		<money_symbol>NZ$</money_symbol>
+		<country_capital>Fakaofo</country_capital>
+		<country_name>Tokelau</country_name>
+		<money_code>NZD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<smo>Samoan</smo>
+			<tkl>Tokelauan</tkl>
+		</country_languages>
+		<money_name>New Zealand Dollar</money_name>
+	</TKL>
+	<BLR>
+		<country_region>Europe</country_region>
+		<money_symbol>BYR</money_symbol>
+		<country_capital>Minsk</country_capital>
+		<country_name>Belarus</country_name>
+		<money_code>BYR</money_code>
+		<country_languages>
+			<bel>Belarusian</bel>
+			<rus>Russian</rus>
+		</country_languages>
+		<money_name>Belarusian Ruble</money_name>
+	</BLR>
+	<MAF>
+		<country_region>Americas</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Marigot</country_capital>
+		<country_name>Saint Martin</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</MAF>
+	<MDA>
+		<country_region>Europe</country_region>
+		<money_symbol>MDL</money_symbol>
+		<country_capital>Chișinău</country_capital>
+		<country_name>Moldova</country_name>
+		<money_code>MDL</money_code>
+		<country_languages>
+			<ron>Moldavian</ron>
+		</country_languages>
+		<money_name>Moldovan Leu</money_name>
+	</MDA>
+	<MTQ>
+		<country_region>Americas</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Fort-de-France</country_capital>
+		<country_name>Martinique</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</MTQ>
+	<COK>
+		<country_region>Oceania</country_region>
+		<money_symbol>NZ$</money_symbol>
+		<country_capital>Avarua</country_capital>
+		<country_name>Cook Islands</country_name>
+		<money_code>NZD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<rar>Cook Islands Māori</rar>
+		</country_languages>
+		<money_name>New Zealand Dollar</money_name>
+	</COK>
+	<MOZ>
+		<country_region>Africa</country_region>
+		<money_symbol>MTn</money_symbol>
+		<country_capital>Maputo</country_capital>
+		<country_name>Mozambique</country_name>
+		<money_code>MZN</money_code>
+		<country_languages>
+			<por>Portuguese</por>
+		</country_languages>
+		<money_name>Mozambican Metical</money_name>
+	</MOZ>
+	<GNB>
+		<country_region>Africa</country_region>
+		<money_symbol>CFA</money_symbol>
+		<country_capital>Bissau</country_capital>
+		<country_name>Guinea-Bissau</country_name>
+		<money_code>XOF</money_code>
+		<country_languages>
+			<por>Portuguese</por>
+		</country_languages>
+		<money_name>CFA Franc BCEAO</money_name>
+	</GNB>
+	<BWA>
+		<country_region>Africa</country_region>
+		<money_symbol>BWP</money_symbol>
+		<country_capital>Gaborone</country_capital>
+		<country_name>Botswana</country_name>
+		<money_code>BWP</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<tsn>Tswana</tsn>
+		</country_languages>
+		<money_name>Botswanan Pula</money_name>
+	</BWA>
+	<PLW>
+		<country_region>Oceania</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Ngerulmud</country_capital>
+		<country_name>Palau</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<pau>Palauan</pau>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</PLW>
+	<LTU>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Vilnius</country_capital>
+		<country_name>Lithuania</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<lit>Lithuanian</lit>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</LTU>
+	<COL>
+		<country_region>Americas</country_region>
+		<money_symbol>CO$</money_symbol>
+		<country_capital>Bogotá</country_capital>
+		<country_name>Colombia</country_name>
+		<money_code>COP</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Colombian Peso</money_name>
+	</COL>
+	<DNK>
+		<country_region>Europe</country_region>
+		<money_symbol>Dkr</money_symbol>
+		<country_capital>Copenhagen</country_capital>
+		<country_name>Denmark</country_name>
+		<money_code>DKK</money_code>
+		<country_languages>
+			<dan>Danish</dan>
+		</country_languages>
+		<money_name>Danish Krone</money_name>
+	</DNK>
+	<CIV>
+		<country_region>Africa</country_region>
+		<money_symbol>CFA</money_symbol>
+		<country_capital>Yamoussoukro</country_capital>
+		<country_name>Ivory Coast</country_name>
+		<money_code>XOF</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BCEAO</money_name>
+	</CIV>
+	<FIN>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Helsinki</country_capital>
+		<country_name>Finland</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fin>Finnish</fin>
+			<swe>Swedish</swe>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</FIN>
+	<ARM>
+		<country_region>Asia</country_region>
+		<money_symbol>AMD</money_symbol>
+		<country_capital>Yerevan</country_capital>
+		<country_name>Armenia</country_name>
+		<money_code>AMD</money_code>
+		<country_languages>
+			<hye>Armenian</hye>
+			<rus>Russian</rus>
+		</country_languages>
+		<money_name>Armenian Dram</money_name>
+	</ARM>
+	<IDN>
+		<country_region>Asia</country_region>
+		<money_symbol>Rp</money_symbol>
+		<country_capital>Jakarta</country_capital>
+		<country_name>Indonesia</country_name>
+		<money_code>IDR</money_code>
+		<country_languages>
+			<ind>Indonesian</ind>
+		</country_languages>
+		<money_name>Indonesian Rupiah</money_name>
+	</IDN>
+	<COM>
+		<country_region>Africa</country_region>
+		<money_symbol>CF</money_symbol>
+		<country_capital>Moroni</country_capital>
+		<country_name>Comoros</country_name>
+		<money_code>KMF</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<fra>French</fra>
+			<zdj>Comorian</zdj>
+		</country_languages>
+		<money_name>Comorian Franc</money_name>
+	</COM>
+	<KWT>
+		<country_region>Asia</country_region>
+		<money_symbol>KD</money_symbol>
+		<country_capital>Kuwait City</country_capital>
+		<country_name>Kuwait</country_name>
+		<money_code>KWD</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Kuwaiti Dinar</money_name>
+	</KWT>
+	<UMI>
+		<country_region>Americas</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital></country_capital>
+		<country_name>United States Minor Outlying Islands</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</UMI>
+	<RWA>
+		<country_region>Africa</country_region>
+		<money_symbol>RWF</money_symbol>
+		<country_capital>Kigali</country_capital>
+		<country_name>Rwanda</country_name>
+		<money_code>RWF</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<fra>French</fra>
+			<kin>Kinyarwanda</kin>
+		</country_languages>
+		<money_name>Rwandan Franc</money_name>
+	</RWA>
+	<NRU>
+		<country_region>Oceania</country_region>
+		<money_symbol>AU$</money_symbol>
+		<country_capital>Yaren</country_capital>
+		<country_name>Nauru</country_name>
+		<money_code>AUD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<nau>Nauru</nau>
+		</country_languages>
+		<money_name>Australian Dollar</money_name>
+	</NRU>
+	<CRI>
+		<country_region>Americas</country_region>
+		<money_symbol>₡</money_symbol>
+		<country_capital>San José</country_capital>
+		<country_name>Costa Rica</country_name>
+		<money_code>CRC</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Costa Rican Colón</money_name>
+	</CRI>
+	<HKG>
+		<country_region>Asia</country_region>
+		<money_symbol>HK$</money_symbol>
+		<country_capital>City of Victoria</country_capital>
+		<country_name>Hong Kong</country_name>
+		<money_code>HKD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<zho>Chinese</zho>
+		</country_languages>
+		<money_name>Hong Kong Dollar</money_name>
+	</HKG>
+	<FRA>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Paris</country_capital>
+		<country_name>France</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</FRA>
+	<MUS>
+		<country_region>Africa</country_region>
+		<money_symbol>MURs</money_symbol>
+		<country_capital>Port Louis</country_capital>
+		<country_name>Mauritius</country_name>
+		<money_code>MUR</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<fra>French</fra>
+			<mfe>Mauritian Creole</mfe>
+		</country_languages>
+		<money_name>Mauritian Rupee</money_name>
+	</MUS>
+	<HMD>
+		<country_region></country_region>
+		<money_symbol>AU$</money_symbol>
+		<country_capital></country_capital>
+		<country_name>Heard Island and McDonald Islands</country_name>
+		<money_code>AUD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>Australian Dollar</money_name>
+	</HMD>
+	<CMR>
+		<country_region>Africa</country_region>
+		<money_symbol>FCFA</money_symbol>
+		<country_capital>Yaoundé</country_capital>
+		<country_name>Cameroon</country_name>
+		<money_code>XAF</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BEAC</money_name>
+	</CMR>
+	<ASM>
+		<country_region>Oceania</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Pago Pago</country_capital>
+		<country_name>American Samoa</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<smo>Samoan</smo>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</ASM>
+	<SOM>
+		<country_region>Africa</country_region>
+		<money_symbol>Ssh</money_symbol>
+		<country_capital>Mogadishu</country_capital>
+		<country_name>Somalia</country_name>
+		<money_code>SOS</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<som>Somali</som>
+		</country_languages>
+		<money_name>Somali Shilling</money_name>
+	</SOM>
+	<YEM>
+		<country_region>Asia</country_region>
+		<money_symbol>YR</money_symbol>
+		<country_capital>Sana'a</country_capital>
+		<country_name>Yemen</country_name>
+		<money_code>YER</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Yemeni Rial</money_name>
+	</YEM>
+	<GIN>
+		<country_region>Africa</country_region>
+		<money_symbol>FG</money_symbol>
+		<country_capital>Conakry</country_capital>
+		<country_name>Guinea</country_name>
+		<money_code>GNF</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Guinean Franc</money_name>
+	</GIN>
+	<DOM>
+		<country_region>Americas</country_region>
+		<money_symbol>RD$</money_symbol>
+		<country_capital>Santo Domingo</country_capital>
+		<country_name>Dominican Republic</country_name>
+		<money_code>DOP</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Dominican Peso</money_name>
+	</DOM>
+	<HND>
+		<country_region>Americas</country_region>
+		<money_symbol>HNL</money_symbol>
+		<country_capital>Tegucigalpa</country_capital>
+		<country_name>Honduras</country_name>
+		<money_code>HNL</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Honduran Lempira</money_name>
+	</HND>
+	<BRN>
+		<country_region>Asia</country_region>
+		<money_symbol>BN$</money_symbol>
+		<country_capital>Bandar Seri Begawan</country_capital>
+		<country_name>Brunei</country_name>
+		<money_code>BND</money_code>
+		<country_languages>
+			<msa>Malay</msa>
+		</country_languages>
+		<money_name>Brunei Dollar</money_name>
+	</BRN>
+	<LUX>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Luxembourg</country_capital>
+		<country_name>Luxembourg</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<deu>German</deu>
+			<fra>French</fra>
+			<ltz>Luxembourgish</ltz>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</LUX>
+	<SPM>
+		<country_region>Americas</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Saint-Pierre</country_capital>
+		<country_name>Saint Pierre and Miquelon</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</SPM>
+	<MDG>
+		<country_region>Africa</country_region>
+		<money_symbol>MGA</money_symbol>
+		<country_capital>Antananarivo</country_capital>
+		<country_name>Madagascar</country_name>
+		<money_code>MGA</money_code>
+		<country_languages>
+			<fra>French</fra>
+			<mlg>Malagasy</mlg>
+		</country_languages>
+		<money_name>Malagasy Ariary</money_name>
+	</MDG>
+	<UNK>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Pristina</country_capital>
+		<country_name>Kosovo</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<sqi>Albanian</sqi>
+			<srp>Serbian</srp>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</UNK>
+	<SMR>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>City of San Marino</country_capital>
+		<country_name>San Marino</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<ita>Italian</ita>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</SMR>
+	<EGY>
+		<country_region>Africa</country_region>
+		<money_symbol>EGP</money_symbol>
+		<country_capital>Cairo</country_capital>
+		<country_name>Egypt</country_name>
+		<money_code>EGP</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Egyptian Pound</money_name>
+	</EGY>
+	<LBN>
+		<country_region>Asia</country_region>
+		<money_symbol>LB£</money_symbol>
+		<country_capital>Beirut</country_capital>
+		<country_name>Lebanon</country_name>
+		<money_code>LBP</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Lebanese Pound</money_name>
+	</LBN>
+	<AZE>
+		<country_region>Asia</country_region>
+		<money_symbol>man.</money_symbol>
+		<country_capital>Baku</country_capital>
+		<country_name>Azerbaijan</country_name>
+		<money_code>AZN</money_code>
+		<country_languages>
+			<aze>Azerbaijani</aze>
+			<rus>Russian</rus>
+		</country_languages>
+		<money_name>Azerbaijani Manat</money_name>
+	</AZE>
+	<BLZ>
+		<country_region>Americas</country_region>
+		<money_symbol>BZ$</money_symbol>
+		<country_capital>Belmopan</country_capital>
+		<country_name>Belize</country_name>
+		<money_code>BZD</money_code>
+		<country_languages>
+			<bjz>Belizean Creole</bjz>
+			<eng>English</eng>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Belize Dollar</money_name>
+	</BLZ>
+	<NGA>
+		<country_region>Africa</country_region>
+		<money_symbol>₦</money_symbol>
+		<country_capital>Abuja</country_capital>
+		<country_name>Nigeria</country_name>
+		<money_code>NGN</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>Nigerian Naira</money_name>
+	</NGA>
+	<NZL>
+		<country_region>Oceania</country_region>
+		<money_symbol>NZ$</money_symbol>
+		<country_capital>Wellington</country_capital>
+		<country_name>New Zealand</country_name>
+		<money_code>NZD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<mri>Māori</mri>
+			<nzs>New Zealand Sign Language</nzs>
+		</country_languages>
+		<money_name>New Zealand Dollar</money_name>
+	</NZL>
+	<PRT>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Lisbon</country_capital>
+		<country_name>Portugal</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<por>Portuguese</por>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</PRT>
+	<TON>
+		<country_region>Oceania</country_region>
+		<money_symbol>T$</money_symbol>
+		<country_capital>Nuku'alofa</country_capital>
+		<country_name>Tonga</country_name>
+		<money_code>TOP</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<ton>Tongan</ton>
+		</country_languages>
+		<money_name>Tongan Paʻanga</money_name>
+	</TON>
+	<UKR>
+		<country_region>Europe</country_region>
+		<money_symbol>₴</money_symbol>
+		<country_capital>Kiev</country_capital>
+		<country_name>Ukraine</country_name>
+		<money_code>UAH</money_code>
+		<country_languages>
+			<rus>Russian</rus>
+			<ukr>Ukrainian</ukr>
+		</country_languages>
+		<money_name>Ukrainian Hryvnia</money_name>
+	</UKR>
+	<SLV>
+		<country_region>Americas</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>San Salvador</country_capital>
+		<country_name>El Salvador</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</SLV>
+	<TLS>
+		<country_region>Asia</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Dili</country_capital>
+		<country_name>Timor-Leste</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<por>Portuguese</por>
+			<tet>Tetum</tet>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</TLS>
+	<GRC>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Athens</country_capital>
+		<country_name>Greece</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<ell>Greek</ell>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</GRC>
+	<VIR>
+		<country_region>Americas</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Charlotte Amalie</country_capital>
+		<country_name>United States Virgin Islands</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</VIR>
+	<LKA>
+		<country_region>Asia</country_region>
+		<money_symbol>SLRs</money_symbol>
+		<country_capital>Colombo</country_capital>
+		<country_name>Sri Lanka</country_name>
+		<money_code>LKR</money_code>
+		<country_languages>
+			<sin>Sinhala</sin>
+			<tam>Tamil</tam>
+		</country_languages>
+		<money_name>Sri Lankan Rupee</money_name>
+	</LKA>
+	<IND>
+		<country_region>Asia</country_region>
+		<money_symbol>Rs</money_symbol>
+		<country_capital>New Delhi</country_capital>
+		<country_name>India</country_name>
+		<money_code>INR</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<hin>Hindi</hin>
+			<tam>Tamil</tam>
+		</country_languages>
+		<money_name>Indian Rupee</money_name>
+	</IND>
+	<ERI>
+		<country_region>Africa</country_region>
+		<money_symbol>Nfk</money_symbol>
+		<country_capital>Asmara</country_capital>
+		<country_name>Eritrea</country_name>
+		<money_code>ERN</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<eng>English</eng>
+			<tir>Tigrinya</tir>
+		</country_languages>
+		<money_name>Eritrean Nakfa</money_name>
+	</ERI>
+	<KEN>
+		<country_region>Africa</country_region>
+		<money_symbol>Ksh</money_symbol>
+		<country_capital>Nairobi</country_capital>
+		<country_name>Kenya</country_name>
+		<money_code>KES</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<swa>Swahili</swa>
+		</country_languages>
+		<money_name>Kenyan Shilling</money_name>
+	</KEN>
+	<BTN>
+		<country_region>Asia</country_region>
+		<money_symbol>Rs</money_symbol>
+		<country_capital>Thimphu</country_capital>
+		<country_name>Bhutan</country_name>
+		<money_code>INR</money_code>
+		<country_languages>
+			<dzo>Dzongkha</dzo>
+		</country_languages>
+		<money_name>Indian Rupee</money_name>
+	</BTN>
+	<LIE>
+		<country_region>Europe</country_region>
+		<money_symbol>CHF</money_symbol>
+		<country_capital>Vaduz</country_capital>
+		<country_name>Liechtenstein</country_name>
+		<money_code>CHF</money_code>
+		<country_languages>
+			<deu>German</deu>
+		</country_languages>
+		<money_name>Swiss Franc</money_name>
+	</LIE>
+	<ROU>
+		<country_region>Europe</country_region>
+		<money_symbol>RON</money_symbol>
+		<country_capital>Bucharest</country_capital>
+		<country_name>Romania</country_name>
+		<money_code>RON</money_code>
+		<country_languages>
+			<ron>Romanian</ron>
+		</country_languages>
+		<money_name>Romanian Leu</money_name>
+	</ROU>
+	<SWE>
+		<country_region>Europe</country_region>
+		<money_symbol>Skr</money_symbol>
+		<country_capital>Stockholm</country_capital>
+		<country_name>Sweden</country_name>
+		<money_code>SEK</money_code>
+		<country_languages>
+			<swe>Swedish</swe>
+		</country_languages>
+		<money_name>Swedish Krona</money_name>
+	</SWE>
+	<NAM>
+		<country_region>Africa</country_region>
+		<money_symbol>R</money_symbol>
+		<country_capital>Windhoek</country_capital>
+		<country_name>Namibia</country_name>
+		<money_code>ZAR</money_code>
+		<country_languages>
+			<tsn>Tswana</tsn>
+			<eng>English</eng>
+			<her>Herero</her>
+			<deu>German</deu>
+			<afr>Afrikaans</afr>
+			<hgm>Khoekhoe</hgm>
+			<ndo>Ndonga</ndo>
+			<kwn>Kwangali</kwn>
+			<loz>Lozi</loz>
+		</country_languages>
+		<money_name>South African Rand</money_name>
+	</NAM>
+	<MYS>
+		<country_region>Asia</country_region>
+		<money_symbol>RM</money_symbol>
+		<country_capital>Kuala Lumpur</country_capital>
+		<country_name>Malaysia</country_name>
+		<money_code>MYR</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<msa>Malay</msa>
+		</country_languages>
+		<money_name>Malaysian Ringgit</money_name>
+	</MYS>
+	<VNM>
+		<country_region>Asia</country_region>
+		<money_symbol>₫</money_symbol>
+		<country_capital>Hanoi</country_capital>
+		<country_name>Vietnam</country_name>
+		<money_code>VND</money_code>
+		<country_languages>
+			<vie>Vietnamese</vie>
+		</country_languages>
+		<money_name>Vietnamese Dong</money_name>
+	</VNM>
+	<MYT>
+		<country_region>Africa</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Mamoudzou</country_capital>
+		<country_name>Mayotte</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</MYT>
+	<ETH>
+		<country_region>Africa</country_region>
+		<money_symbol>Br</money_symbol>
+		<country_capital>Addis Ababa</country_capital>
+		<country_name>Ethiopia</country_name>
+		<money_code>ETB</money_code>
+		<country_languages>
+			<amh>Amharic</amh>
+		</country_languages>
+		<money_name>Ethiopian Birr</money_name>
+	</ETH>
+	<GLP>
+		<country_region>Americas</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Basse-Terre</country_capital>
+		<country_name>Guadeloupe</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</GLP>
+	<DZA>
+		<country_region>Africa</country_region>
+		<money_symbol>DA</money_symbol>
+		<country_capital>Algiers</country_capital>
+		<country_name>Algeria</country_name>
+		<money_code>DZD</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Algerian Dinar</money_name>
+	</DZA>
+	<MAR>
+		<country_region>Africa</country_region>
+		<money_symbol>MAD</money_symbol>
+		<country_capital>Rabat</country_capital>
+		<country_name>Morocco</country_name>
+		<money_code>MAD</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+			<ber>Berber</ber>
+		</country_languages>
+		<money_name>Moroccan Dirham</money_name>
+	</MAR>
+	<GGY>
+		<country_region>Europe</country_region>
+		<money_symbol>£</money_symbol>
+		<country_capital>St. Peter Port</country_capital>
+		<country_name>Guernsey</country_name>
+		<money_code>GBP</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<fra>French</fra>
+			<nfr>Guernésiais</nfr>
+		</country_languages>
+		<money_name>British Pound Sterling</money_name>
+	</GGY>
+	<MCO>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Monaco</country_capital>
+		<country_name>Monaco</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</MCO>
+	<CZE>
+		<country_region>Europe</country_region>
+		<money_symbol>Kč</money_symbol>
+		<country_capital>Prague</country_capital>
+		<country_name>Czech Republic</country_name>
+		<money_code>CZK</money_code>
+		<country_languages>
+			<ces>Czech</ces>
+			<slk>Slovak</slk>
+		</country_languages>
+		<money_name>Czech Republic Koruna</money_name>
+	</CZE>
+	<AUS>
+		<country_region>Oceania</country_region>
+		<money_symbol>AU$</money_symbol>
+		<country_capital>Canberra</country_capital>
+		<country_name>Australia</country_name>
+		<money_code>AUD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>Australian Dollar</money_name>
+	</AUS>
+	<NIC>
+		<country_region>Americas</country_region>
+		<money_symbol>C$</money_symbol>
+		<country_capital>Managua</country_capital>
+		<country_name>Nicaragua</country_name>
+		<money_code>NIO</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Nicaraguan Córdoba</money_name>
+	</NIC>
+	<CPV>
+		<country_region>Africa</country_region>
+		<money_symbol>CV$</money_symbol>
+		<country_capital>Praia</country_capital>
+		<country_name>Cape Verde</country_name>
+		<money_code>CVE</money_code>
+		<country_languages>
+			<por>Portuguese</por>
+		</country_languages>
+		<money_name>Cape Verdean Escudo</money_name>
+	</CPV>
+	<PAK>
+		<country_region>Asia</country_region>
+		<money_symbol>PKRs</money_symbol>
+		<country_capital>Islamabad</country_capital>
+		<country_name>Pakistan</country_name>
+		<money_code>PKR</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<urd>Urdu</urd>
+		</country_languages>
+		<money_name>Pakistani Rupee</money_name>
+	</PAK>
+	<KHM>
+		<country_region>Asia</country_region>
+		<money_symbol>KHR</money_symbol>
+		<country_capital>Phnom Penh</country_capital>
+		<country_name>Cambodia</country_name>
+		<money_code>KHR</money_code>
+		<country_languages>
+			<khm>Khmer</khm>
+		</country_languages>
+		<money_name>Cambodian Riel</money_name>
+	</KHM>
+	<PRY>
+		<country_region>Americas</country_region>
+		<money_symbol>₲</money_symbol>
+		<country_capital>Asunción</country_capital>
+		<country_name>Paraguay</country_name>
+		<money_code>PYG</money_code>
+		<country_languages>
+			<grn>Guaraní</grn>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>Paraguayan Guarani</money_name>
+	</PRY>
+	<TZA>
+		<country_region>Africa</country_region>
+		<money_symbol>TSh</money_symbol>
+		<country_capital>Dodoma</country_capital>
+		<country_name>Tanzania</country_name>
+		<money_code>TZS</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<swa>Swahili</swa>
+		</country_languages>
+		<money_name>Tanzanian Shilling</money_name>
+	</TZA>
+	<AUT>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Vienna</country_capital>
+		<country_name>Austria</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<bar>Austro-Bavarian German</bar>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</AUT>
+	<SVK>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Bratislava</country_capital>
+		<country_name>Slovakia</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<slk>Slovak</slk>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</SVK>
+	<KAZ>
+		<country_region>Asia</country_region>
+		<money_symbol>KZT</money_symbol>
+		<country_capital>Astana</country_capital>
+		<country_name>Kazakhstan</country_name>
+		<money_code>KZT</money_code>
+		<country_languages>
+			<kaz>Kazakh</kaz>
+			<rus>Russian</rus>
+		</country_languages>
+		<money_name>Kazakhstani Tenge</money_name>
+	</KAZ>
+	<MKD>
+		<country_region>Europe</country_region>
+		<money_symbol>MKD</money_symbol>
+		<country_capital>Skopje</country_capital>
+		<country_name>Macedonia</country_name>
+		<money_code>MKD</money_code>
+		<country_languages>
+			<mkd>Macedonian</mkd>
+		</country_languages>
+		<money_name>Macedonian Denar</money_name>
+	</MKD>
+	<CAF>
+		<country_region>Africa</country_region>
+		<money_symbol>FCFA</money_symbol>
+		<country_capital>Bangui</country_capital>
+		<country_name>Central African Republic</country_name>
+		<money_code>XAF</money_code>
+		<country_languages>
+			<fra>French</fra>
+			<sag>Sango</sag>
+		</country_languages>
+		<money_name>CFA Franc BEAC</money_name>
+	</CAF>
+	<BFA>
+		<country_region>Africa</country_region>
+		<money_symbol>CFA</money_symbol>
+		<country_capital>Ouagadougou</country_capital>
+		<country_name>Burkina Faso</country_name>
+		<money_code>XOF</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>CFA Franc BCEAO</money_name>
+	</BFA>
+	<ITA>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Rome</country_capital>
+		<country_name>Italy</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<bar>Austro-Bavarian German</bar>
+			<ita>Italian</ita>
+			<srd>Sardinian</srd>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</ITA>
+	<GNQ>
+		<country_region>Africa</country_region>
+		<money_symbol>FCFA</money_symbol>
+		<country_capital>Malabo</country_capital>
+		<country_name>Equatorial Guinea</country_name>
+		<money_code>XAF</money_code>
+		<country_languages>
+			<fra>French</fra>
+			<por>Portuguese</por>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>CFA Franc BEAC</money_name>
+	</GNQ>
+	<NFK>
+		<country_region>Oceania</country_region>
+		<money_symbol>AU$</money_symbol>
+		<country_capital>Kingston</country_capital>
+		<country_name>Norfolk Island</country_name>
+		<money_code>AUD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<pih>Norfuk</pih>
+		</country_languages>
+		<money_name>Australian Dollar</money_name>
+	</NFK>
+	<PAN>
+		<country_region>Americas</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Panama City</country_capital>
+		<country_name>Panama</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<spa>Spanish</spa>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</PAN>
+	<GUF>
+		<country_region>Americas</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Cayenne</country_capital>
+		<country_name>French Guiana</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<fra>French</fra>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</GUF>
+	<IMN>
+		<country_region>Europe</country_region>
+		<money_symbol>£</money_symbol>
+		<country_capital>Douglas</country_capital>
+		<country_name>Isle of Man</country_name>
+		<money_code>GBP</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<glv>Manx</glv>
+		</country_languages>
+		<money_name>British Pound Sterling</money_name>
+	</IMN>
+	<SVN>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Ljubljana</country_capital>
+		<country_name>Slovenia</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<slv>Slovene</slv>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</SVN>
+	<UZB>
+		<country_region>Asia</country_region>
+		<money_symbol>UZS</money_symbol>
+		<country_capital>Tashkent</country_capital>
+		<country_name>Uzbekistan</country_name>
+		<money_code>UZS</money_code>
+		<country_languages>
+			<rus>Russian</rus>
+			<uzb>Uzbek</uzb>
+		</country_languages>
+		<money_name>Uzbekistan Som</money_name>
+	</UZB>
+	<JEY>
+		<country_region>Europe</country_region>
+		<money_symbol>£</money_symbol>
+		<country_capital>Saint Helier</country_capital>
+		<country_name>Jersey</country_name>
+		<money_code>GBP</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<fra>French</fra>
+			<nrf>Jèrriais</nrf>
+		</country_languages>
+		<money_name>British Pound Sterling</money_name>
+	</JEY>
+	<TTO>
+		<country_region>Americas</country_region>
+		<money_symbol>TT$</money_symbol>
+		<country_capital>Port of Spain</country_capital>
+		<country_name>Trinidad and Tobago</country_name>
+		<money_code>TTD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>Trinidad and Tobago Dollar</money_name>
+	</TTO>
+	<GRL>
+		<country_region>Americas</country_region>
+		<money_symbol>Dkr</money_symbol>
+		<country_capital>Nuuk</country_capital>
+		<country_name>Greenland</country_name>
+		<money_code>DKK</money_code>
+		<country_languages>
+			<kal>Greenlandic</kal>
+		</country_languages>
+		<money_name>Danish Krone</money_name>
+	</GRL>
+	<ESP>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Madrid</country_capital>
+		<country_name>Spain</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<cat>Catalan</cat>
+			<spa>Spanish</spa>
+			<oci>Occitan</oci>
+			<eus>Basque</eus>
+			<glg>Galician</glg>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</ESP>
+	<FRO>
+		<country_region>Europe</country_region>
+		<money_symbol>Dkr</money_symbol>
+		<country_capital>Tórshavn</country_capital>
+		<country_name>Faroe Islands</country_name>
+		<money_code>DKK</money_code>
+		<country_languages>
+			<dan>Danish</dan>
+			<fao>Faroese</fao>
+		</country_languages>
+		<money_name>Danish Krone</money_name>
+	</FRO>
+	<RUS>
+		<country_region>Europe</country_region>
+		<money_symbol>RUB</money_symbol>
+		<country_capital>Moscow</country_capital>
+		<country_name>Russia</country_name>
+		<money_code>RUB</money_code>
+		<country_languages>
+			<rus>Russian</rus>
+		</country_languages>
+		<money_name>Russian Ruble</money_name>
+	</RUS>
+	<LBY>
+		<country_region>Africa</country_region>
+		<money_symbol>LD</money_symbol>
+		<country_capital>Tripoli</country_capital>
+		<country_name>Libya</country_name>
+		<money_code>LYD</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Libyan Dinar</money_name>
+	</LBY>
+	<TUN>
+		<country_region>Africa</country_region>
+		<money_symbol>DT</money_symbol>
+		<country_capital>Tunis</country_capital>
+		<country_name>Tunisia</country_name>
+		<money_code>TND</money_code>
+		<country_languages>
+			<ara>Arabic</ara>
+		</country_languages>
+		<money_name>Tunisian Dinar</money_name>
+	</TUN>
+	<FSM>
+		<country_region>Oceania</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Palikir</country_capital>
+		<country_name>Micronesia</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</FSM>
+	<BVT>
+		<country_region></country_region>
+		<money_symbol>Nkr</money_symbol>
+		<country_capital></country_capital>
+		<country_name>Bouvet Island</country_name>
+		<money_code>NOK</money_code>
+		<country_languages>
+			<nor>Norwegian</nor>
+		</country_languages>
+		<money_name>Norwegian Krone</money_name>
+	</BVT>
+	<AFG>
+		<country_region>Asia</country_region>
+		<money_symbol>Af</money_symbol>
+		<country_capital>Kabul</country_capital>
+		<country_name>Afghanistan</country_name>
+		<money_code>AFN</money_code>
+		<country_languages>
+			<prs>Dari</prs>
+			<pus>Pashto</pus>
+			<tuk>Turkmen</tuk>
+		</country_languages>
+		<money_name>Afghan Afghani</money_name>
+	</AFG>
+	<MHL>
+		<country_region>Oceania</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Majuro</country_capital>
+		<country_name>Marshall Islands</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+			<mah>Marshallese</mah>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</MHL>
+	<TCA>
+		<country_region>Americas</country_region>
+		<money_symbol>$</money_symbol>
+		<country_capital>Cockburn Town</country_capital>
+		<country_name>Turks and Caicos Islands</country_name>
+		<money_code>USD</money_code>
+		<country_languages>
+			<eng>English</eng>
+		</country_languages>
+		<money_name>US Dollar</money_name>
+	</TCA>
+	<NLD>
+		<country_region>Europe</country_region>
+		<money_symbol>€</money_symbol>
+		<country_capital>Amsterdam</country_capital>
+		<country_name>Netherlands</country_name>
+		<money_code>EUR</money_code>
+		<country_languages>
+			<nld>Dutch</nld>
+		</country_languages>
+		<money_name>Euro</money_name>
+	</NLD>
+	
