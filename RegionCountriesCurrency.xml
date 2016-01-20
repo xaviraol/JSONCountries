@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<MKD>
+		<money_symbol>MKD</money_symbol>
+		<countries>Macedonia</countries>
+		<money_region>Macedonia</money_region>
+		<money_name>Macedonian Denar</money_name>
+	</MKD>
+	<MOP>
+		<money_symbol>MOP$</money_symbol>
+		<countries>Macau</countries>
+		<money_region>Macau</money_region>
+		<money_name>Macanese Pataca</money_name>
+	</MOP>
+	<PHP>
+		<money_symbol>₱</money_symbol>
+		<countries>Philippines</countries>
+		<money_region>Philippines</money_region>
+		<money_name>Philippine Peso</money_name>
+	</PHP>
+	<AUD>
+		<money_symbol>AU$</money_symbol>
+		<countries>Kiribati</countries>
+		<countries>Christmas Island</countries>
+		<countries>Cocos (Keeling) Islands</countries>
+		<countries>Tuvalu</countries>
+		<countries>Nauru</countries>
+		<countries>Heard Island and McDonald Islands</countries>
+		<countries>Australia</countries>
+		<countries>Norfolk Island</countries>
+		<money_region>Kiribati</money_region>
+		<money_name>Australian Dollar</money_name>
+	</AUD>
+	<DKK>
+		<money_symbol>Dkr</money_symbol>
+		<countries>Denmark</countries>
+		<countries>Greenland</countries>
+		<countries>Faroe Islands</countries>
+		<money_region>Denmark</money_region>
+		<money_name>Danish Krone</money_name>
+	</DKK>
+	<NOK>
+		<money_symbol>Nkr</money_symbol>
+		<countries>Norway</countries>
+		<countries>Svalbard and Jan Mayen</countries>
+		<countries>Bouvet Island</countries>
+		<money_region>Norway</money_region>
+		<money_name>Norwegian Krone</money_name>
+	</NOK>
+	<GBP>
+		<money_symbol>£</money_symbol>
+		<countries>United Kingdom</countries>
+		<countries>South Georgia</countries>
+		<countries>Guernsey</countries>
+		<countries>Isle of Man</countries>
+		<countries>Jersey</countries>
+		<money_region>United Kingdom</money_region>
+		<money_name>British Pound Sterling</money_name>
+	</GBP>
+	<AZN>
+		<money_symbol>man.</money_symbol>
+		<countries>Azerbaijan</countries>
+		<money_region>Azerbaijan</money_region>
+		<money_name>Azerbaijani Manat</money_name>
+	</AZN>
+	<BIF>
+		<money_symbol>FBu</money_symbol>
+		<countries>Burundi</countries>
+		<money_region>Burundi</money_region>
+		<money_name>Burundian Franc</money_name>
+	</BIF>
+	<BWP>
+		<money_symbol>BWP</money_symbol>
+		<countries>Botswana</countries>
+		<money_region>Botswana</money_region>
+		<money_name>Botswanan Pula</money_name>
+	</BWP>
+	<GTQ>
+		<money_symbol>GTQ</money_symbol>
+		<countries>Guatemala</countries>
+		<money_region>Guatemala</money_region>
+		<money_name>Guatemalan Quetzal</money_name>
+	</GTQ>
+	<EGP>
+		<money_symbol>EGP</money_symbol>
+		<countries>Egypt</countries>
+		<money_region>Egypt</money_region>
+		<money_name>Egyptian Pound</money_name>
+	</EGP>
+	<YER>
+		<money_symbol>YR</money_symbol>
+		<countries>Yemen</countries>
+		<money_region>Yemen</money_region>
+		<money_name>Yemeni Rial</money_name>
+	</YER>
+	<SAR>
+		<money_symbol>SR</money_symbol>
+		<countries>Saudi Arabia</countries>
+		<money_region>Saudi Arabia</money_region>
+		<money_name>Saudi Riyal</money_name>
+	</SAR>
+	<SGD>
+		<money_symbol>S$</money_symbol>
+		<countries>Singapore</countries>
+		<money_region>Singapore</money_region>
+		<money_name>Singapore Dollar</money_name>
+	</SGD>
+	<CLP>
+		<money_symbol>CL$</money_symbol>
+		<countries>Chile</countries>
+		<money_region>Chile</money_region>
+		<money_name>Chilean Peso</money_name>
+	</CLP>
+	<TWD>
+		<money_symbol>NT$</money_symbol>
+		<countries>Taiwan</countries>
+		<money_region>Taiwan</money_region>
+		<money_name>New Taiwan Dollar</money_name>
+	</TWD>
+	<MZN>
+		<money_symbol>MTn</money_symbol>
+		<countries>Mozambique</countries>
+		<money_region>Mozambique</money_region>
+		<money_name>Mozambican Metical</money_name>
+	</MZN>
+	<TND>
+		<money_symbol>DT</money_symbol>
+		<countries>Tunisia</countries>
+		<money_region>Tunisia</money_region>
+		<money_name>Tunisian Dinar</money_name>
+	</TND>
+	<AMD>
+		<money_symbol>AMD</money_symbol>
+		<countries>Armenia</countries>
+		<money_region>Armenia</money_region>
+		<money_name>Armenian Dram</money_name>
+	</AMD>
+	<UAH>
+		<money_symbol>₴</money_symbol>
+		<countries>Ukraine</countries>
+		<money_region>Ukraine</money_region>
+		<money_name>Ukrainian Hryvnia</money_name>
+	</UAH>
+	<KRW>
+		<money_symbol>₩</money_symbol>
+		<countries>South Korea</countries>
+		<money_region>South Korea</money_region>
+		<money_name>South Korean Won</money_name>
+	</KRW>
+	<TZS>
+		<money_symbol>TSh</money_symbol>
+		<countries>Tanzania</countries>
+		<money_region>Tanzania</money_region>
+		<money_name>Tanzanian Shilling</money_name>
+	</TZS>
+	<BDT>
+		<money_symbol>Tk</money_symbol>
+		<countries>Bangladesh</countries>
+		<money_region>Bangladesh</money_region>
+		<money_name>Bangladeshi Taka</money_name>
+	</BDT>
+	<RSD>
+		<money_symbol>din.</money_symbol>
+		<countries>Serbia</countries>
+		<money_region>Serbia</money_region>
+		<money_name>Serbian Dinar</money_name>
+	</RSD>
+	<CRC>
+		<money_symbol>₡</money_symbol>
+		<countries>Costa Rica</countries>
+		<money_region>Costa Rica</money_region>
+		<money_name>Costa Rican Colón</money_name>
+	</CRC>
+	<GEL>
+		<money_symbol>GEL</money_symbol>
+		<countries>Georgia</countries>
+		<money_region>Georgia</money_region>
+		<money_name>Georgian Lari</money_name>
+	</GEL>
+	<ISK>
+		<money_symbol>Ikr</money_symbol>
+		<countries>Iceland</countries>
+		<money_region>Iceland</money_region>
+		<money_name>Icelandic Króna</money_name>
+	</ISK>
+	<ERN>
+		<money_symbol>Nfk</money_symbol>
+		<countries>Eritrea</countries>
+		<money_region>Eritrea</money_region>
+		<money_name>Eritrean Nakfa</money_name>
+	</ERN>
+	<RON>
+		<money_symbol>RON</money_symbol>
+		<countries>Romania</countries>
+		<money_region>Romania</money_region>
+		<money_name>Romanian Leu</money_name>
+	</RON>
+	<MYR>
+		<money_symbol>RM</money_symbol>
+		<countries>Malaysia</countries>
+		<money_region>Malaysia</money_region>
+		<money_name>Malaysian Ringgit</money_name>
+	</MYR>
+	<CHF>
+		<money_symbol>CHF</money_symbol>
+		<countries>Liechtenstein</countries>
+		<money_region>Liechtenstein</money_region>
+		<money_name>Swiss Franc</money_name>
+	</CHF>
+	<BGN>
+		<money_symbol>BGN</money_symbol>
+		<countries>Bulgaria</countries>
+		<money_region>Bulgaria</money_region>
+		<money_name>Bulgarian Lev</money_name>
+	</BGN>
+	<SEK>
+		<money_symbol>Skr</money_symbol>
+		<countries>Sweden</countries>
+		<money_region>Sweden</money_region>
+		<money_name>Swedish Krona</money_name>
+	</SEK>
+	<AED>
+		<money_symbol>AED</money_symbol>
+		<countries>United Arab Emirates</countries>
+		<money_region>United Arab Emirates</money_region>
+		<money_name>United Arab Emirates Dirham</money_name>
+	</AED>
+	<LYD>
+		<money_symbol>LD</money_symbol>
+		<countries>Libya</countries>
+		<money_region>Libya</money_region>
+		<money_name>Libyan Dinar</money_name>
+	</LYD>
+	<NGN>
+		<money_symbol>₦</money_symbol>
+		<countries>Nigeria</countries>
+		<money_region>Nigeria</money_region>
+		<money_name>Nigerian Naira</money_name>
+	</NGN>
+	<RUB>
+		<money_symbol>RUB</money_symbol>
+		<countries>Russia</countries>
+		<money_region>Russia</money_region>
+		<money_name>Russian Ruble</money_name>
+	</RUB>
+	<LBP>
+		<money_symbol>LB£</money_symbol>
+		<countries>Lebanon</countries>
+		<money_region>Lebanon</money_region>
+		<money_name>Lebanese Pound</money_name>
+	</LBP>
+	<BRL>
+		<money_symbol>R$</money_symbol>
+		<countries>Brazil</countries>
+		<money_region>Brazil</money_region>
+		<money_name>Brazilian Real</money_name>
+	</BRL>
+	<CAD>
+		<money_symbol>CA$</money_symbol>
+		<countries>Canada</countries>
+		<money_region>Canada</money_region>
+		<money_name>Canadian Dollar</money_name>
+	</CAD>
+	<DZD>
+		<money_symbol>DA</money_symbol>
+		<countries>Algeria</countries>
+		<money_region>Algeria</money_region>
+		<money_name>Algerian Dinar</money_name>
+	</DZD>
+	<PLN>
+		<money_symbol>zł</money_symbol>
+		<countries>Poland</countries>
+		<money_region>Poland</money_region>
+		<money_name>Polish Zloty</money_name>
+	</PLN>
+	<XOF>
+		<money_symbol>CFA</money_symbol>
+		<countries>Mali</countries>
+		<countries>Niger</countries>
+		<countries>Benin</countries>
+		<countries>Senegal</countries>
+		<countries>Togo</countries>
+		<countries>Guinea-Bissau</countries>
+		<countries>Ivory Coast</countries>
+		<countries>Burkina Faso</countries>
+		<money_region>Mali</money_region>
+		<money_name>CFA Franc BCEAO</money_name>
+	</XOF>
+	<THB>
+		<money_symbol>฿</money_symbol>
+		<countries>Thailand</countries>
+		<money_region>Thailand</money_region>
+		<money_name>Thai Baht</money_name>
+	</THB>
+	<BYR>
+		<money_symbol>BYR</money_symbol>
+		<countries>Belarus</countries>
+		<money_region>Belarus</money_region>
+		<money_name>Belarusian Ruble</money_name>
+	</BYR>
+	<OMR>
+		<money_symbol>OMR</money_symbol>
+		<countries>Oman</countries>
+		<money_region>Oman</money_region>
+		<money_name>Omani Rial</money_name>
+	</OMR>
+	<ARS>
+		<money_symbol>AR$</money_symbol>
+		<countries>Argentina</countries>
+		<money_region>Argentina</money_region>
+		<money_name>Argentine Peso</money_name>
+	</ARS>
+	<IRR>
+		<money_symbol>IRR</money_symbol>
+		<countries>Iran</countries>
+		<money_region>Iran</money_region>
+		<money_name>Iranian Rial</money_name>
+	</IRR>
+	<ALL>
+		<money_symbol>ALL</money_symbol>
+		<countries>Albania</countries>
+		<money_region>Albania</money_region>
+		<money_name>Albanian Lek</money_name>
+	</ALL>
+	<UYU>
+		<money_symbol>$U</money_symbol>
+		<countries>Uruguay</countries>
+		<money_region>Uruguay</money_region>
+		<money_name>Uruguayan Peso</money_name>
+	</UYU>
+	<MGA>
+		<money_symbol>MGA</money_symbol>
+		<countries>Madagascar</countries>
+		<money_region>Madagascar</money_region>
+		<money_name>Malagasy Ariary</money_name>
+	</MGA>
+	<HNL>
+		<money_symbol>HNL</money_symbol>
+		<countries>Honduras</countries>
+		<money_region>Honduras</money_region>
+		<money_name>Honduran Lempira</money_name>
+	</HNL>
+	<PKR>
+		<money_symbol>PKRs</money_symbol>
+		<countries>Pakistan</countries>
+		<money_region>Pakistan</money_region>
+		<money_name>Pakistani Rupee</money_name>
+	</PKR>
+	<CZK>
+		<money_symbol>Kč</money_symbol>
+		<countries>Czech Republic</countries>
+		<money_region>Czech Republic</money_region>
+		<money_name>Czech Republic Koruna</money_name>
+	</CZK>
+	<COP>
+		<money_symbol>CO$</money_symbol>
+		<countries>Colombia</countries>
+		<money_region>Colombia</money_region>
+		<money_name>Colombian Peso</money_name>
+	</COP>
+	<LKR>
+		<money_symbol>SLRs</money_symbol>
+		<countries>Sri Lanka</countries>
+		<money_region>Sri Lanka</money_region>
+		<money_name>Sri Lankan Rupee</money_name>
+	</LKR>
+	<JMD>
+		<money_symbol>J$</money_symbol>
+		<countries>Jamaica</countries>
+		<money_region>Jamaica</money_region>
+		<money_name>Jamaican Dollar</money_name>
+	</JMD>
+	<PYG>
+		<money_symbol>₲</money_symbol>
+		<countries>Paraguay</countries>
+		<money_region>Paraguay</money_region>
+		<money_name>Paraguayan Guarani</money_name>
+	</PYG>
+	<UZS>
+		<money_symbol>UZS</money_symbol>
+		<countries>Uzbekistan</countries>
+		<money_region>Uzbekistan</money_region>
+		<money_name>Uzbekistan Som</money_name>
+	</UZS>
+	<NPR>
+		<money_symbol>NPRs</money_symbol>
+		<countries>Nepal</countries>
+		<money_region>Nepal</money_region>
+		<money_name>Nepalese Rupee</money_name>
+	</NPR>
+	<BAM>
+		<money_symbol>KM</money_symbol>
+		<countries>Bosnia and Herzegovina</countries>
+		<money_region>Bosnia and Herzegovina</money_region>
+		<money_name>Bosnia-Herzegovina Convertible Mark</money_name>
+	</BAM>
+	<BND>
+		<money_symbol>BN$</money_symbol>
+		<countries>Brunei</countries>
+		<money_region>Brunei</money_region>
+		<money_name>Brunei Dollar</money_name>
+	</BND>
+	<KES>
+		<money_symbol>Ksh</money_symbol>
+		<countries>Kenya</countries>
+		<money_region>Kenya</money_region>
+		<money_name>Kenyan Shilling</money_name>
+	</KES>
+	<MMK>
+		<money_symbol>MMK</money_symbol>
+		<countries>Myanmar</countries>
+		<money_region>Myanmar</money_region>
+		<money_name>Myanma Kyat</money_name>
+	</MMK>
+	<TRY>
+		<money_symbol>TL</money_symbol>
+		<countries>Turkey</countries>
+		<money_region>Turkey</money_region>
+		<money_name>Turkish Lira</money_name>
+	</TRY>
+	<UGX>
+		<money_symbol>USh</money_symbol>
+		<countries>Uganda</countries>
+		<money_region>Uganda</money_region>
+		<money_name>Ugandan Shilling</money_name>
+	</UGX>
+	<NIO>
+		<money_symbol>C$</money_symbol>
+		<countries>Nicaragua</countries>
+		<money_region>Nicaragua</money_region>
+		<money_name>Nicaraguan Córdoba</money_name>
+	</NIO>
+	<PEN>
+		<money_symbol>S/.</money_symbol>
+		<countries>Peru</countries>
+		<money_region>Peru</money_region>
+		<money_name>Peruvian Nuevo Sol</money_name>
+	</PEN>
+	<QAR>
+		<money_symbol>QR</money_symbol>
+		<countries>Qatar</countries>
+		<money_region>Qatar</money_region>
+		<money_name>Qatari Rial</money_name>
+	</QAR>
+	<MDL>
+		<money_symbol>MDL</money_symbol>
+		<countries>Moldova</countries>
+		<money_region>Moldova</money_region>
+		<money_name>Moldovan Leu</money_name>
+	</MDL>
+	<IQD>
+		<money_symbol>IQD</money_symbol>
+		<countries>Iraq</countries>
+		<money_region>Iraq</money_region>
+		<money_name>Iraqi Dinar</money_name>
+	</IQD>
+	<VND>
+		<money_symbol>₫</money_symbol>
+		<countries>Vietnam</countries>
+		<money_region>Vietnam</money_region>
+		<money_name>Vietnamese Dong</money_name>
+	</VND>
+	<SYP>
+		<money_symbol>SY£</money_symbol>
+		<countries>Syria</countries>
+		<money_region>Syria</money_region>
+		<money_name>Syrian Pound</money_name>
+	</SYP>
+	<JOD>
+		<money_symbol>JD</money_symbol>
+		<countries>Jordan</countries>
+		<money_region>Jordan</money_region>
+		<money_name>Jordanian Dinar</money_name>
+	</JOD>
+	<DJF>
+		<money_symbol>Fdj</money_symbol>
+		<countries>Djibouti</countries>
+		<money_region>Djibouti</money_region>
+		<money_name>Djiboutian Franc</money_name>
+	</DJF>
+	<SOS>
+		<money_symbol>Ssh</money_symbol>
+		<countries>Somalia</countries>
+		<money_region>Somalia</money_region>
+		<money_name>Somali Shilling</money_name>
+	</SOS>
+	<CVE>
+		<money_symbol>CV$</money_symbol>
+		<countries>Cape Verde</countries>
+		<money_region>Cape Verde</money_region>
+		<money_name>Cape Verdean Escudo</money_name>
+	</CVE>
+	<RWF>
+		<money_symbol>RWF</money_symbol>
+		<countries>Rwanda</countries>
+		<money_region>Rwanda</money_region>
+		<money_name>Rwandan Franc</money_name>
+	</RWF>
+	<DOP>
+		<money_symbol>RD$</money_symbol>
+		<countries>Dominican Republic</countries>
+		<money_region>Dominican Republic</money_region>
+		<money_name>Dominican Peso</money_name>
+	</DOP>
+	<EUR>
+		<money_symbol>€</money_symbol>
+		<countries>Montenegro</countries>
+		<countries>Estonia</countries>
+		<countries>Cyprus</countries>
+		<countries>Åland Islands</countries>
+		<countries>Ireland</countries>
+		<countries>Belgium</countries>
+		<countries>Latvia</countries>
+		<countries>Andorra</countries>
+		<countries>Malta</countries>
+		<countries>Réunion</countries>
+		<countries>Saint Barthélemy</countries>
+		<countries>Vatican City</countries>
+		<countries>Germany</countries>
+		<countries>French Southern and Antarctic Lands</countries>
+		<countries>Saint Martin</countries>
+		<countries>Martinique</countries>
+		<countries>Lithuania</countries>
+		<countries>Finland</countries>
+		<countries>France</countries>
+		<countries>Luxembourg</countries>
+		<countries>Saint Pierre and Miquelon</countries>
+		<countries>Kosovo</countries>
+		<countries>San Marino</countries>
+		<countries>Portugal</countries>
+		<countries>Greece</countries>
+		<countries>Mayotte</countries>
+		<countries>Guadeloupe</countries>
+		<countries>Monaco</countries>
+		<countries>Austria</countries>
+		<countries>Slovakia</countries>
+		<countries>Italy</countries>
+		<countries>French Guiana</countries>
+		<countries>Slovenia</countries>
+		<countries>Spain</countries>
+		<countries>Netherlands</countries>
+		<money_region>Montenegro</money_region>
+		<money_name>Euro</money_name>
+	</EUR>
+	<HKD>
+		<money_symbol>HK$</money_symbol>
+		<countries>Hong Kong</countries>
+		<money_region>Hong Kong</money_region>
+		<money_name>Hong Kong Dollar</money_name>
+	</HKD>
+	<VEF>
+		<money_symbol>Bs.F.</money_symbol>
+		<countries>Venezuela</countries>
+		<money_region>Venezuela</money_region>
+		<money_name>Venezuelan Bolívar</money_name>
+	</VEF>
+	<CNY>
+		<money_symbol>CN¥</money_symbol>
+		<countries>China</countries>
+		<money_region>China</money_region>
+		<money_name>Chinese Yuan</money_name>
+	</CNY>
+	<MUR>
+		<money_symbol>MURs</money_symbol>
+		<countries>Mauritius</countries>
+		<money_region>Mauritius</money_region>
+		<money_name>Mauritian Rupee</money_name>
+	</MUR>
+	<CDF>
+		<money_symbol>CDF</money_symbol>
+		<countries>DR Congo</countries>
+		<money_region>DR Congo</money_region>
+		<money_name>Congolese Franc</money_name>
+	</CDF>
+	<JPY>
+		<money_symbol>¥</money_symbol>
+		<countries>Japan</countries>
+		<money_region>Japan</money_region>
+		<money_name>Japanese Yen</money_name>
+	</JPY>
+	<TTD>
+		<money_symbol>TT$</money_symbol>
+		<countries>Trinidad and Tobago</countries>
+		<money_region>Trinidad and Tobago</money_region>
+		<money_name>Trinidad and Tobago Dollar</money_name>
+	</TTD>
+	<ILS>
+		<money_symbol>₪</money_symbol>
+		<countries>Israel</countries>
+		<countries>Palestine</countries>
+		<money_region>Israel</money_region>
+		<money_name>Israeli New Sheqel</money_name>
+	</ILS>
+	<TOP>
+		<money_symbol>T$</money_symbol>
+		<countries>Tonga</countries>
+		<money_region>Tonga</money_region>
+		<money_name>Tongan Paʻanga</money_name>
+	</TOP>
+	<KMF>
+		<money_symbol>CF</money_symbol>
+		<countries>Comoros</countries>
+		<money_region>Comoros</money_region>
+		<money_name>Comorian Franc</money_name>
+	</KMF>
+	<KWD>
+		<money_symbol>KD</money_symbol>
+		<countries>Kuwait</countries>
+		<money_region>Kuwait</money_region>
+		<money_name>Kuwaiti Dinar</money_name>
+	</KWD>
+	<HRK>
+		<money_symbol>kn</money_symbol>
+		<countries>Croatia</countries>
+		<money_region>Croatia</money_region>
+		<money_name>Croatian Kuna</money_name>
+	</HRK>
+	<XAF>
+		<money_symbol>FCFA</money_symbol>
+		<countries>Chad</countries>
+		<countries>Gabon</countries>
+		<countries>Republic of the Congo</countries>
+		<countries>Cameroon</countries>
+		<countries>Central African Republic</countries>
+		<countries>Equatorial Guinea</countries>
+		<money_region>Chad</money_region>
+		<money_name>CFA Franc BEAC</money_name>
+	</XAF>
+	<BZD>
+		<money_symbol>BZ$</money_symbol>
+		<countries>Belize</countries>
+		<money_region>Belize</money_region>
+		<money_name>Belize Dollar</money_name>
+	</BZD>
+	<KHR>
+		<money_symbol>KHR</money_symbol>
+		<countries>Cambodia</countries>
+		<money_region>Cambodia</money_region>
+		<money_name>Cambodian Riel</money_name>
+	</KHR>
+	<GHS>
+		<money_symbol>GH₵</money_symbol>
+		<countries>Ghana</countries>
+		<money_region>Ghana</money_region>
+		<money_name>Ghanaian Cedi</money_name>
+	</GHS>
+	<ETB>
+		<money_symbol>Br</money_symbol>
+		<countries>Ethiopia</countries>
+		<money_region>Ethiopia</money_region>
+		<money_name>Ethiopian Birr</money_name>
+	</ETB>
+	<BHD>
+		<money_symbol>BD</money_symbol>
+		<countries>Bahrain</countries>
+		<money_region>Bahrain</money_region>
+		<money_name>Bahraini Dinar</money_name>
+	</BHD>
+	<AFN>
+		<money_symbol>Af</money_symbol>
+		<countries>Afghanistan</countries>
+		<money_region>Afghanistan</money_region>
+		<money_name>Afghan Afghani</money_name>
+	</AFN>
+	<IDR>
+		<money_symbol>Rp</money_symbol>
+		<countries>Indonesia</countries>
+		<money_region>Indonesia</money_region>
+		<money_name>Indonesian Rupiah</money_name>
+	</IDR>
+	<GNF>
+		<money_symbol>FG</money_symbol>
+		<countries>Guinea</countries>
+		<money_region>Guinea</money_region>
+		<money_name>Guinean Franc</money_name>
+	</GNF>
+	<KZT>
+		<money_symbol>KZT</money_symbol>
+		<countries>Kazakhstan</countries>
+		<money_region>Kazakhstan</money_region>
+		<money_name>Kazakhstani Tenge</money_name>
+	</KZT>
+	<ZAR>
+		<money_symbol>R</money_symbol>
+		<countries>Lesotho</countries>
+		<countries>South Africa</countries>
+		<countries>Namibia</countries>
+		<money_region>Lesotho</money_region>
+		<money_name>South African Rand</money_name>
+	</ZAR>
+	<MXN>
+		<money_symbol>MX$</money_symbol>
+		<countries>Mexico</countries>
+		<money_region>Mexico</money_region>
+		<money_name>Mexican Peso</money_name>
+	</MXN>
+	<NZD>
+		<money_symbol>NZ$</money_symbol>
+		<countries>Pitcairn Islands</countries>
+		<countries>Niue</countries>
+		<countries>Tokelau</countries>
+		<countries>Cook Islands</countries>
+		<countries>New Zealand</countries>
+		<money_region>Pitcairn Islands</money_region>
+		<money_name>New Zealand Dollar</money_name>
+	</NZD>
+	<SDG>
+		<money_symbol>SDG</money_symbol>
+		<countries>Sudan</countries>
+		<money_region>Sudan</money_region>
+		<money_name>Sudanese Pound</money_name>
+	</SDG>
+	<HUF>
+		<money_symbol>Ft</money_symbol>
+		<countries>Hungary</countries>
+		<money_region>Hungary</money_region>
+		<money_name>Hungarian Forint</money_name>
+	</HUF>
+	<MAD>
+		<money_symbol>MAD</money_symbol>
+		<countries>Morocco</countries>
+		<money_region>Morocco</money_region>
+		<money_name>Moroccan Dirham</money_name>
+	</MAD>
+	<USD>
+		<money_symbol>$</money_symbol>
+		<countries>Haiti</countries>
+		<countries>Guam</countries>
+		<countries>British Indian Ocean Territory</countries>
+		<countries>British Virgin Islands</countries>
+		<countries>Northern Mariana Islands</countries>
+		<countries>Ecuador</countries>
+		<countries>Puerto Rico</countries>
+		<countries>Palau</countries>
+		<countries>United States Minor Outlying Islands</countries>
+		<countries>American Samoa</countries>
+		<countries>El Salvador</countries>
+		<countries>Timor-Leste</countries>
+		<countries>United States Virgin Islands</countries>
+		<countries>Panama</countries>
+		<countries>Micronesia</countries>
+		<countries>Marshall Islands</countries>
+		<countries>Turks and Caicos Islands</countries>
+		<money_region>Haiti</money_region>
+		<money_name>US Dollar</money_name>
+	</USD>
+	<INR>
+		<money_symbol>Rs</money_symbol>
+		<countries>India</countries>
+		<countries>Bhutan</countries>
+		<money_region>India</money_region>
+		<money_name>Indian Rupee</money_name>
+	</INR>
+	

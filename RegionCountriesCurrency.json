@@ -1,0 +1,975 @@
+{
+  "MKD" : {
+    "money_symbol" : "MKD",
+    "countries" : [
+      "Macedonia"
+    ],
+    "money_region" : "Macedonia",
+    "money_name" : "Macedonian Denar"
+  },
+  "MOP" : {
+    "money_symbol" : "MOP$",
+    "countries" : [
+      "Macau"
+    ],
+    "money_region" : "Macau",
+    "money_name" : "Macanese Pataca"
+  },
+  "PHP" : {
+    "money_symbol" : "₱",
+    "countries" : [
+      "Philippines"
+    ],
+    "money_region" : "Philippines",
+    "money_name" : "Philippine Peso"
+  },
+  "AUD" : {
+    "money_symbol" : "AU$",
+    "countries" : [
+      "Kiribati",
+      "Christmas Island",
+      "Cocos (Keeling) Islands",
+      "Tuvalu",
+      "Nauru",
+      "Heard Island and McDonald Islands",
+      "Australia",
+      "Norfolk Island"
+    ],
+    "money_region" : "Kiribati",
+    "money_name" : "Australian Dollar"
+  },
+  "DKK" : {
+    "money_symbol" : "Dkr",
+    "countries" : [
+      "Denmark",
+      "Greenland",
+      "Faroe Islands"
+    ],
+    "money_region" : "Denmark",
+    "money_name" : "Danish Krone"
+  },
+  "NOK" : {
+    "money_symbol" : "Nkr",
+    "countries" : [
+      "Norway",
+      "Svalbard and Jan Mayen",
+      "Bouvet Island"
+    ],
+    "money_region" : "Norway",
+    "money_name" : "Norwegian Krone"
+  },
+  "GBP" : {
+    "money_symbol" : "£",
+    "countries" : [
+      "United Kingdom",
+      "South Georgia",
+      "Guernsey",
+      "Isle of Man",
+      "Jersey"
+    ],
+    "money_region" : "United Kingdom",
+    "money_name" : "British Pound Sterling"
+  },
+  "AZN" : {
+    "money_symbol" : "man.",
+    "countries" : [
+      "Azerbaijan"
+    ],
+    "money_region" : "Azerbaijan",
+    "money_name" : "Azerbaijani Manat"
+  },
+  "BIF" : {
+    "money_symbol" : "FBu",
+    "countries" : [
+      "Burundi"
+    ],
+    "money_region" : "Burundi",
+    "money_name" : "Burundian Franc"
+  },
+  "BWP" : {
+    "money_symbol" : "BWP",
+    "countries" : [
+      "Botswana"
+    ],
+    "money_region" : "Botswana",
+    "money_name" : "Botswanan Pula"
+  },
+  "GTQ" : {
+    "money_symbol" : "GTQ",
+    "countries" : [
+      "Guatemala"
+    ],
+    "money_region" : "Guatemala",
+    "money_name" : "Guatemalan Quetzal"
+  },
+  "EGP" : {
+    "money_symbol" : "EGP",
+    "countries" : [
+      "Egypt"
+    ],
+    "money_region" : "Egypt",
+    "money_name" : "Egyptian Pound"
+  },
+  "YER" : {
+    "money_symbol" : "YR",
+    "countries" : [
+      "Yemen"
+    ],
+    "money_region" : "Yemen",
+    "money_name" : "Yemeni Rial"
+  },
+  "SAR" : {
+    "money_symbol" : "SR",
+    "countries" : [
+      "Saudi Arabia"
+    ],
+    "money_region" : "Saudi Arabia",
+    "money_name" : "Saudi Riyal"
+  },
+  "SGD" : {
+    "money_symbol" : "S$",
+    "countries" : [
+      "Singapore"
+    ],
+    "money_region" : "Singapore",
+    "money_name" : "Singapore Dollar"
+  },
+  "CLP" : {
+    "money_symbol" : "CL$",
+    "countries" : [
+      "Chile"
+    ],
+    "money_region" : "Chile",
+    "money_name" : "Chilean Peso"
+  },
+  "TWD" : {
+    "money_symbol" : "NT$",
+    "countries" : [
+      "Taiwan"
+    ],
+    "money_region" : "Taiwan",
+    "money_name" : "New Taiwan Dollar"
+  },
+  "MZN" : {
+    "money_symbol" : "MTn",
+    "countries" : [
+      "Mozambique"
+    ],
+    "money_region" : "Mozambique",
+    "money_name" : "Mozambican Metical"
+  },
+  "TND" : {
+    "money_symbol" : "DT",
+    "countries" : [
+      "Tunisia"
+    ],
+    "money_region" : "Tunisia",
+    "money_name" : "Tunisian Dinar"
+  },
+  "AMD" : {
+    "money_symbol" : "AMD",
+    "countries" : [
+      "Armenia"
+    ],
+    "money_region" : "Armenia",
+    "money_name" : "Armenian Dram"
+  },
+  "UAH" : {
+    "money_symbol" : "₴",
+    "countries" : [
+      "Ukraine"
+    ],
+    "money_region" : "Ukraine",
+    "money_name" : "Ukrainian Hryvnia"
+  },
+  "KRW" : {
+    "money_symbol" : "₩",
+    "countries" : [
+      "South Korea"
+    ],
+    "money_region" : "South Korea",
+    "money_name" : "South Korean Won"
+  },
+  "TZS" : {
+    "money_symbol" : "TSh",
+    "countries" : [
+      "Tanzania"
+    ],
+    "money_region" : "Tanzania",
+    "money_name" : "Tanzanian Shilling"
+  },
+  "BDT" : {
+    "money_symbol" : "Tk",
+    "countries" : [
+      "Bangladesh"
+    ],
+    "money_region" : "Bangladesh",
+    "money_name" : "Bangladeshi Taka"
+  },
+  "RSD" : {
+    "money_symbol" : "din.",
+    "countries" : [
+      "Serbia"
+    ],
+    "money_region" : "Serbia",
+    "money_name" : "Serbian Dinar"
+  },
+  "CRC" : {
+    "money_symbol" : "₡",
+    "countries" : [
+      "Costa Rica"
+    ],
+    "money_region" : "Costa Rica",
+    "money_name" : "Costa Rican Colón"
+  },
+  "GEL" : {
+    "money_symbol" : "GEL",
+    "countries" : [
+      "Georgia"
+    ],
+    "money_region" : "Georgia",
+    "money_name" : "Georgian Lari"
+  },
+  "ISK" : {
+    "money_symbol" : "Ikr",
+    "countries" : [
+      "Iceland"
+    ],
+    "money_region" : "Iceland",
+    "money_name" : "Icelandic Króna"
+  },
+  "ERN" : {
+    "money_symbol" : "Nfk",
+    "countries" : [
+      "Eritrea"
+    ],
+    "money_region" : "Eritrea",
+    "money_name" : "Eritrean Nakfa"
+  },
+  "RON" : {
+    "money_symbol" : "RON",
+    "countries" : [
+      "Romania"
+    ],
+    "money_region" : "Romania",
+    "money_name" : "Romanian Leu"
+  },
+  "MYR" : {
+    "money_symbol" : "RM",
+    "countries" : [
+      "Malaysia"
+    ],
+    "money_region" : "Malaysia",
+    "money_name" : "Malaysian Ringgit"
+  },
+  "CHF" : {
+    "money_symbol" : "CHF",
+    "countries" : [
+      "Liechtenstein"
+    ],
+    "money_region" : "Liechtenstein",
+    "money_name" : "Swiss Franc"
+  },
+  "BGN" : {
+    "money_symbol" : "BGN",
+    "countries" : [
+      "Bulgaria"
+    ],
+    "money_region" : "Bulgaria",
+    "money_name" : "Bulgarian Lev"
+  },
+  "SEK" : {
+    "money_symbol" : "Skr",
+    "countries" : [
+      "Sweden"
+    ],
+    "money_region" : "Sweden",
+    "money_name" : "Swedish Krona"
+  },
+  "AED" : {
+    "money_symbol" : "AED",
+    "countries" : [
+      "United Arab Emirates"
+    ],
+    "money_region" : "United Arab Emirates",
+    "money_name" : "United Arab Emirates Dirham"
+  },
+  "LYD" : {
+    "money_symbol" : "LD",
+    "countries" : [
+      "Libya"
+    ],
+    "money_region" : "Libya",
+    "money_name" : "Libyan Dinar"
+  },
+  "NGN" : {
+    "money_symbol" : "₦",
+    "countries" : [
+      "Nigeria"
+    ],
+    "money_region" : "Nigeria",
+    "money_name" : "Nigerian Naira"
+  },
+  "RUB" : {
+    "money_symbol" : "RUB",
+    "countries" : [
+      "Russia"
+    ],
+    "money_region" : "Russia",
+    "money_name" : "Russian Ruble"
+  },
+  "LBP" : {
+    "money_symbol" : "LB£",
+    "countries" : [
+      "Lebanon"
+    ],
+    "money_region" : "Lebanon",
+    "money_name" : "Lebanese Pound"
+  },
+  "BRL" : {
+    "money_symbol" : "R$",
+    "countries" : [
+      "Brazil"
+    ],
+    "money_region" : "Brazil",
+    "money_name" : "Brazilian Real"
+  },
+  "CAD" : {
+    "money_symbol" : "CA$",
+    "countries" : [
+      "Canada"
+    ],
+    "money_region" : "Canada",
+    "money_name" : "Canadian Dollar"
+  },
+  "DZD" : {
+    "money_symbol" : "DA",
+    "countries" : [
+      "Algeria"
+    ],
+    "money_region" : "Algeria",
+    "money_name" : "Algerian Dinar"
+  },
+  "PLN" : {
+    "money_symbol" : "zł",
+    "countries" : [
+      "Poland"
+    ],
+    "money_region" : "Poland",
+    "money_name" : "Polish Zloty"
+  },
+  "XOF" : {
+    "money_symbol" : "CFA",
+    "countries" : [
+      "Mali",
+      "Niger",
+      "Benin",
+      "Senegal",
+      "Togo",
+      "Guinea-Bissau",
+      "Ivory Coast",
+      "Burkina Faso"
+    ],
+    "money_region" : "Mali",
+    "money_name" : "CFA Franc BCEAO"
+  },
+  "THB" : {
+    "money_symbol" : "฿",
+    "countries" : [
+      "Thailand"
+    ],
+    "money_region" : "Thailand",
+    "money_name" : "Thai Baht"
+  },
+  "BYR" : {
+    "money_symbol" : "BYR",
+    "countries" : [
+      "Belarus"
+    ],
+    "money_region" : "Belarus",
+    "money_name" : "Belarusian Ruble"
+  },
+  "OMR" : {
+    "money_symbol" : "OMR",
+    "countries" : [
+      "Oman"
+    ],
+    "money_region" : "Oman",
+    "money_name" : "Omani Rial"
+  },
+  "ARS" : {
+    "money_symbol" : "AR$",
+    "countries" : [
+      "Argentina"
+    ],
+    "money_region" : "Argentina",
+    "money_name" : "Argentine Peso"
+  },
+  "IRR" : {
+    "money_symbol" : "IRR",
+    "countries" : [
+      "Iran"
+    ],
+    "money_region" : "Iran",
+    "money_name" : "Iranian Rial"
+  },
+  "ALL" : {
+    "money_symbol" : "ALL",
+    "countries" : [
+      "Albania"
+    ],
+    "money_region" : "Albania",
+    "money_name" : "Albanian Lek"
+  },
+  "UYU" : {
+    "money_symbol" : "$U",
+    "countries" : [
+      "Uruguay"
+    ],
+    "money_region" : "Uruguay",
+    "money_name" : "Uruguayan Peso"
+  },
+  "MGA" : {
+    "money_symbol" : "MGA",
+    "countries" : [
+      "Madagascar"
+    ],
+    "money_region" : "Madagascar",
+    "money_name" : "Malagasy Ariary"
+  },
+  "HNL" : {
+    "money_symbol" : "HNL",
+    "countries" : [
+      "Honduras"
+    ],
+    "money_region" : "Honduras",
+    "money_name" : "Honduran Lempira"
+  },
+  "PKR" : {
+    "money_symbol" : "PKRs",
+    "countries" : [
+      "Pakistan"
+    ],
+    "money_region" : "Pakistan",
+    "money_name" : "Pakistani Rupee"
+  },
+  "CZK" : {
+    "money_symbol" : "Kč",
+    "countries" : [
+      "Czech Republic"
+    ],
+    "money_region" : "Czech Republic",
+    "money_name" : "Czech Republic Koruna"
+  },
+  "COP" : {
+    "money_symbol" : "CO$",
+    "countries" : [
+      "Colombia"
+    ],
+    "money_region" : "Colombia",
+    "money_name" : "Colombian Peso"
+  },
+  "LKR" : {
+    "money_symbol" : "SLRs",
+    "countries" : [
+      "Sri Lanka"
+    ],
+    "money_region" : "Sri Lanka",
+    "money_name" : "Sri Lankan Rupee"
+  },
+  "JMD" : {
+    "money_symbol" : "J$",
+    "countries" : [
+      "Jamaica"
+    ],
+    "money_region" : "Jamaica",
+    "money_name" : "Jamaican Dollar"
+  },
+  "PYG" : {
+    "money_symbol" : "₲",
+    "countries" : [
+      "Paraguay"
+    ],
+    "money_region" : "Paraguay",
+    "money_name" : "Paraguayan Guarani"
+  },
+  "UZS" : {
+    "money_symbol" : "UZS",
+    "countries" : [
+      "Uzbekistan"
+    ],
+    "money_region" : "Uzbekistan",
+    "money_name" : "Uzbekistan Som"
+  },
+  "NPR" : {
+    "money_symbol" : "NPRs",
+    "countries" : [
+      "Nepal"
+    ],
+    "money_region" : "Nepal",
+    "money_name" : "Nepalese Rupee"
+  },
+  "BAM" : {
+    "money_symbol" : "KM",
+    "countries" : [
+      "Bosnia and Herzegovina"
+    ],
+    "money_region" : "Bosnia and Herzegovina",
+    "money_name" : "Bosnia-Herzegovina Convertible Mark"
+  },
+  "BND" : {
+    "money_symbol" : "BN$",
+    "countries" : [
+      "Brunei"
+    ],
+    "money_region" : "Brunei",
+    "money_name" : "Brunei Dollar"
+  },
+  "KES" : {
+    "money_symbol" : "Ksh",
+    "countries" : [
+      "Kenya"
+    ],
+    "money_region" : "Kenya",
+    "money_name" : "Kenyan Shilling"
+  },
+  "MMK" : {
+    "money_symbol" : "MMK",
+    "countries" : [
+      "Myanmar"
+    ],
+    "money_region" : "Myanmar",
+    "money_name" : "Myanma Kyat"
+  },
+  "TRY" : {
+    "money_symbol" : "TL",
+    "countries" : [
+      "Turkey"
+    ],
+    "money_region" : "Turkey",
+    "money_name" : "Turkish Lira"
+  },
+  "UGX" : {
+    "money_symbol" : "USh",
+    "countries" : [
+      "Uganda"
+    ],
+    "money_region" : "Uganda",
+    "money_name" : "Ugandan Shilling"
+  },
+  "NIO" : {
+    "money_symbol" : "C$",
+    "countries" : [
+      "Nicaragua"
+    ],
+    "money_region" : "Nicaragua",
+    "money_name" : "Nicaraguan Córdoba"
+  },
+  "PEN" : {
+    "money_symbol" : "S\/.",
+    "countries" : [
+      "Peru"
+    ],
+    "money_region" : "Peru",
+    "money_name" : "Peruvian Nuevo Sol"
+  },
+  "QAR" : {
+    "money_symbol" : "QR",
+    "countries" : [
+      "Qatar"
+    ],
+    "money_region" : "Qatar",
+    "money_name" : "Qatari Rial"
+  },
+  "MDL" : {
+    "money_symbol" : "MDL",
+    "countries" : [
+      "Moldova"
+    ],
+    "money_region" : "Moldova",
+    "money_name" : "Moldovan Leu"
+  },
+  "IQD" : {
+    "money_symbol" : "IQD",
+    "countries" : [
+      "Iraq"
+    ],
+    "money_region" : "Iraq",
+    "money_name" : "Iraqi Dinar"
+  },
+  "VND" : {
+    "money_symbol" : "₫",
+    "countries" : [
+      "Vietnam"
+    ],
+    "money_region" : "Vietnam",
+    "money_name" : "Vietnamese Dong"
+  },
+  "SYP" : {
+    "money_symbol" : "SY£",
+    "countries" : [
+      "Syria"
+    ],
+    "money_region" : "Syria",
+    "money_name" : "Syrian Pound"
+  },
+  "JOD" : {
+    "money_symbol" : "JD",
+    "countries" : [
+      "Jordan"
+    ],
+    "money_region" : "Jordan",
+    "money_name" : "Jordanian Dinar"
+  },
+  "DJF" : {
+    "money_symbol" : "Fdj",
+    "countries" : [
+      "Djibouti"
+    ],
+    "money_region" : "Djibouti",
+    "money_name" : "Djiboutian Franc"
+  },
+  "SOS" : {
+    "money_symbol" : "Ssh",
+    "countries" : [
+      "Somalia"
+    ],
+    "money_region" : "Somalia",
+    "money_name" : "Somali Shilling"
+  },
+  "CVE" : {
+    "money_symbol" : "CV$",
+    "countries" : [
+      "Cape Verde"
+    ],
+    "money_region" : "Cape Verde",
+    "money_name" : "Cape Verdean Escudo"
+  },
+  "RWF" : {
+    "money_symbol" : "RWF",
+    "countries" : [
+      "Rwanda"
+    ],
+    "money_region" : "Rwanda",
+    "money_name" : "Rwandan Franc"
+  },
+  "DOP" : {
+    "money_symbol" : "RD$",
+    "countries" : [
+      "Dominican Republic"
+    ],
+    "money_region" : "Dominican Republic",
+    "money_name" : "Dominican Peso"
+  },
+  "EUR" : {
+    "money_symbol" : "€",
+    "countries" : [
+      "Montenegro",
+      "Estonia",
+      "Cyprus",
+      "Åland Islands",
+      "Ireland",
+      "Belgium",
+      "Latvia",
+      "Andorra",
+      "Malta",
+      "Réunion",
+      "Saint Barthélemy",
+      "Vatican City",
+      "Germany",
+      "French Southern and Antarctic Lands",
+      "Saint Martin",
+      "Martinique",
+      "Lithuania",
+      "Finland",
+      "France",
+      "Luxembourg",
+      "Saint Pierre and Miquelon",
+      "Kosovo",
+      "San Marino",
+      "Portugal",
+      "Greece",
+      "Mayotte",
+      "Guadeloupe",
+      "Monaco",
+      "Austria",
+      "Slovakia",
+      "Italy",
+      "French Guiana",
+      "Slovenia",
+      "Spain",
+      "Netherlands"
+    ],
+    "money_region" : "Montenegro",
+    "money_name" : "Euro"
+  },
+  "HKD" : {
+    "money_symbol" : "HK$",
+    "countries" : [
+      "Hong Kong"
+    ],
+    "money_region" : "Hong Kong",
+    "money_name" : "Hong Kong Dollar"
+  },
+  "VEF" : {
+    "money_symbol" : "Bs.F.",
+    "countries" : [
+      "Venezuela"
+    ],
+    "money_region" : "Venezuela",
+    "money_name" : "Venezuelan Bolívar"
+  },
+  "CNY" : {
+    "money_symbol" : "CN¥",
+    "countries" : [
+      "China"
+    ],
+    "money_region" : "China",
+    "money_name" : "Chinese Yuan"
+  },
+  "MUR" : {
+    "money_symbol" : "MURs",
+    "countries" : [
+      "Mauritius"
+    ],
+    "money_region" : "Mauritius",
+    "money_name" : "Mauritian Rupee"
+  },
+  "CDF" : {
+    "money_symbol" : "CDF",
+    "countries" : [
+      "DR Congo"
+    ],
+    "money_region" : "DR Congo",
+    "money_name" : "Congolese Franc"
+  },
+  "JPY" : {
+    "money_symbol" : "¥",
+    "countries" : [
+      "Japan"
+    ],
+    "money_region" : "Japan",
+    "money_name" : "Japanese Yen"
+  },
+  "TTD" : {
+    "money_symbol" : "TT$",
+    "countries" : [
+      "Trinidad and Tobago"
+    ],
+    "money_region" : "Trinidad and Tobago",
+    "money_name" : "Trinidad and Tobago Dollar"
+  },
+  "ILS" : {
+    "money_symbol" : "₪",
+    "countries" : [
+      "Israel",
+      "Palestine"
+    ],
+    "money_region" : "Israel",
+    "money_name" : "Israeli New Sheqel"
+  },
+  "TOP" : {
+    "money_symbol" : "T$",
+    "countries" : [
+      "Tonga"
+    ],
+    "money_region" : "Tonga",
+    "money_name" : "Tongan Paʻanga"
+  },
+  "KMF" : {
+    "money_symbol" : "CF",
+    "countries" : [
+      "Comoros"
+    ],
+    "money_region" : "Comoros",
+    "money_name" : "Comorian Franc"
+  },
+  "KWD" : {
+    "money_symbol" : "KD",
+    "countries" : [
+      "Kuwait"
+    ],
+    "money_region" : "Kuwait",
+    "money_name" : "Kuwaiti Dinar"
+  },
+  "HRK" : {
+    "money_symbol" : "kn",
+    "countries" : [
+      "Croatia"
+    ],
+    "money_region" : "Croatia",
+    "money_name" : "Croatian Kuna"
+  },
+  "XAF" : {
+    "money_symbol" : "FCFA",
+    "countries" : [
+      "Chad",
+      "Gabon",
+      "Republic of the Congo",
+      "Cameroon",
+      "Central African Republic",
+      "Equatorial Guinea"
+    ],
+    "money_region" : "Chad",
+    "money_name" : "CFA Franc BEAC"
+  },
+  "BZD" : {
+    "money_symbol" : "BZ$",
+    "countries" : [
+      "Belize"
+    ],
+    "money_region" : "Belize",
+    "money_name" : "Belize Dollar"
+  },
+  "KHR" : {
+    "money_symbol" : "KHR",
+    "countries" : [
+      "Cambodia"
+    ],
+    "money_region" : "Cambodia",
+    "money_name" : "Cambodian Riel"
+  },
+  "GHS" : {
+    "money_symbol" : "GH₵",
+    "countries" : [
+      "Ghana"
+    ],
+    "money_region" : "Ghana",
+    "money_name" : "Ghanaian Cedi"
+  },
+  "ETB" : {
+    "money_symbol" : "Br",
+    "countries" : [
+      "Ethiopia"
+    ],
+    "money_region" : "Ethiopia",
+    "money_name" : "Ethiopian Birr"
+  },
+  "BHD" : {
+    "money_symbol" : "BD",
+    "countries" : [
+      "Bahrain"
+    ],
+    "money_region" : "Bahrain",
+    "money_name" : "Bahraini Dinar"
+  },
+  "AFN" : {
+    "money_symbol" : "Af",
+    "countries" : [
+      "Afghanistan"
+    ],
+    "money_region" : "Afghanistan",
+    "money_name" : "Afghan Afghani"
+  },
+  "IDR" : {
+    "money_symbol" : "Rp",
+    "countries" : [
+      "Indonesia"
+    ],
+    "money_region" : "Indonesia",
+    "money_name" : "Indonesian Rupiah"
+  },
+  "GNF" : {
+    "money_symbol" : "FG",
+    "countries" : [
+      "Guinea"
+    ],
+    "money_region" : "Guinea",
+    "money_name" : "Guinean Franc"
+  },
+  "KZT" : {
+    "money_symbol" : "KZT",
+    "countries" : [
+      "Kazakhstan"
+    ],
+    "money_region" : "Kazakhstan",
+    "money_name" : "Kazakhstani Tenge"
+  },
+  "ZAR" : {
+    "money_symbol" : "R",
+    "countries" : [
+      "Lesotho",
+      "South Africa",
+      "Namibia"
+    ],
+    "money_region" : "Lesotho",
+    "money_name" : "South African Rand"
+  },
+  "MXN" : {
+    "money_symbol" : "MX$",
+    "countries" : [
+      "Mexico"
+    ],
+    "money_region" : "Mexico",
+    "money_name" : "Mexican Peso"
+  },
+  "NZD" : {
+    "money_symbol" : "NZ$",
+    "countries" : [
+      "Pitcairn Islands",
+      "Niue",
+      "Tokelau",
+      "Cook Islands",
+      "New Zealand"
+    ],
+    "money_region" : "Pitcairn Islands",
+    "money_name" : "New Zealand Dollar"
+  },
+  "SDG" : {
+    "money_symbol" : "SDG",
+    "countries" : [
+      "Sudan"
+    ],
+    "money_region" : "Sudan",
+    "money_name" : "Sudanese Pound"
+  },
+  "HUF" : {
+    "money_symbol" : "Ft",
+    "countries" : [
+      "Hungary"
+    ],
+    "money_region" : "Hungary",
+    "money_name" : "Hungarian Forint"
+  },
+  "MAD" : {
+    "money_symbol" : "MAD",
+    "countries" : [
+      "Morocco"
+    ],
+    "money_region" : "Morocco",
+    "money_name" : "Moroccan Dirham"
+  },
+  "USD" : {
+    "money_symbol" : "$",
+    "countries" : [
+      "Haiti",
+      "Guam",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Northern Mariana Islands",
+      "Ecuador",
+      "Puerto Rico",
+      "Palau",
+      "United States Minor Outlying Islands",
+      "American Samoa",
+      "El Salvador",
+      "Timor-Leste",
+      "United States Virgin Islands",
+      "Panama",
+      "Micronesia",
+      "Marshall Islands",
+      "Turks and Caicos Islands"
+    ],
+    "money_region" : "Haiti",
+    "money_name" : "US Dollar"
+  },
+  "INR" : {
+    "money_symbol" : "Rs",
+    "countries" : [
+      "India",
+      "Bhutan"
+    ],
+    "money_region" : "India",
+    "money_name" : "Indian Rupee"
+  }
+}
